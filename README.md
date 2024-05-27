@@ -45,7 +45,7 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 10. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
 11. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
 12. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
-13. Star Wars Loading Screens (Custom mod by me) DOWNLOAD FROM THIS GITHUB REPOSITORY
+13. Star Wars Loading Screens (Custom mod by me) https://www.nexusmods.com/starfield/mods/9385/?tab=files
 14. Galactic Empire Era Name Replacement (v1.0) https://www.nexusmods.com/starfield/mods/9362?tab=files
 15. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 
