@@ -160,6 +160,7 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 95. Footsteps Sound Overhaul https://www.nexusmods.com/starfield/mods/9318?tab=files
 96. Alternate Impact Sound (Hit Marker) https://www.nexusmods.com/starfield/mods/5519?tab=description
 97. Kill Essential NPC https://www.nexusmods.com/starfield/mods/232?tab=files
+98. Crowd NPC Eye Ambient Occlusion Fix https://www.nexusmods.com/starfield/mods/2718?tab=files
 
 ## **Plugins Load Order:**<br />
 ![image](https://github.com/DeityVengy/Ultimate-Star-Wars-Conversion-Modlist-for-Starfield-1.11.36./assets/170469610/52a7513a-7644-4bb1-8521-9ae1bfda49cb)
