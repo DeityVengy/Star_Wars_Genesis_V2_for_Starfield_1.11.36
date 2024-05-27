@@ -144,6 +144,7 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 83. NOVA Engines STAR WARS (v1.0) https://www.nexusmods.com/starfield/mods/8526?tab=files
 84. Star Wars Mos Eisley Cantina Music Replacer (v1.0) https://www.nexusmods.com/starfield/mods/5390?tab=files
 85. The Mandalorian Theme Main Menu (v1.1) https://www.nexusmods.com/starfield/mods/2989?tab=files
+86. Star Wars UI Sounds https://www.nexusmods.com/starfield/mods/9390?tab=files
 
 <br />**Performance**<br />
 
