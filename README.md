@@ -39,7 +39,7 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 7. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
 8. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
 9. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
-10. Slightly Better Weapon Icons (SW Edition) (vIV) https://www.nexusmods.com/starfield/mods/4798?tab=files <br /> Replace files with my custom ones: https://drive.google.com/drive/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i?usp=sharing
+10. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
 11. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
 12. Star Wars Loading Screens (Custom mod by me) https://drive.google.com/drive/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i?usp=sharing
 13. Galactic Empire Era Name Replacement (v1.0) https://www.nexusmods.com/starfield/mods/9362?tab=files
@@ -89,35 +89,31 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 
 <br />**Armor**<br />
 
-51. Star Wars Ground Crew Rebel Pilot (v1.0) https://www.nexusmods.com/starfield/mods/6078?tab=files
-52. Star Wars Empire Longsleeve Texture (v1) https://www.nexusmods.com/starfield/mods/6348?tab=files
-53. Star Wars Constellation Commandos WIP (v0.4) https://www.nexusmods.com/starfield/mods/7452?tab=files
-54. Star Wars Prison Scrubs Texture (v1.3) https://www.nexusmods.com/starfield/mods/6383?tab=files
-55. Freestar Rebels (v1.2.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
-56. UC Empire (v1.2.3) https://www.nexusmods.com/starfield/mods/7223?tab=files
+51. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
+52. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
+53. Star Wars Constellation Commandos WIP (*) https://www.nexusmods.com/starfield/mods/7452?tab=files
+54. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
+55. Freestar Rebels (v1.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
+56. UC Empire (v1.3) https://www.nexusmods.com/starfield/mods/7223?tab=files
 57. AT-ST Enemies (v1.02) https://www.nexusmods.com/starfield/mods/8022?tab=files
-58. Star Wars Rebel Leaders (v1.0 May 3) https://www.nexusmods.com/starfield/mods/9125?tab=files
-59. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.0 Dec 6 Bottom) https://www.nexusmods.com/starfield/mods/7506?tab=files
-60. Star Wars - Purge Trooper (Varuun) (v1.1) https://www.nexusmods.com/starfield/mods/6823?tab=files
-61. Hugin's Mandalorian Ecliptic Bounty Hunter Suit (v1.0) https://www.nexusmods.com/starfield/mods/5345?tab=files
+58. Star Wars Rebel Leaders (v1.1) https://www.nexusmods.com/starfield/mods/9125?tab=files
+59. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) https://www.nexusmods.com/starfield/mods/7506?tab=files
+60. Star Wars - Purge Trooper (Varuun) (*) https://www.nexusmods.com/starfield/mods/6823?tab=files
+61. Hugin's Mandalorian Ecliptic Bounty Hunter Suit (*) https://www.nexusmods.com/starfield/mods/5345?tab=files
 
 <br />**Weapons**<br />
 
-63. Crimson Fleet Arsenal - Star Wars Weapon Replacer (v1.2 20th March) https://www.nexusmods.com/starfield/mods/8744?tab=files
-64. Outer Rim Artillery - Star Wars Weapon Replacer (v1.2 April 3) https://www.nexusmods.com/starfield/mods/8903?tab=files
-65. Arms of Mandalore - Star Wars Weapon Replacer (v1.2 April 3) https://www.nexusmods.com/starfield/mods/8853?tab=files
-66. Rebel Armaments - Star Wars Weapon Replacer (v1.4 April 3) https://www.nexusmods.com/starfield/mods/8696?tab=files
-67. Imperial Armaments -  Star Wars Weapon Replacer (v1.2 April 3) https://www.nexusmods.com/starfield/mods/8775?tab=files
-68. Star Wars Melee Weapon Replacer All in One(v1.0) https://www.nexusmods.com/starfield/mods/9016?tab=files
-69. BlasTech IB-94 - Rattler (v1.01) https://www.nexusmods.com/starfield/mods/5025?tab=files
-70. Mandalorian Amban Rifle - Lawgiver (v1.3) https://www.nexusmods.com/starfield/mods/5238?tab=files
+63. Crimson Fleet Arsenal - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
+64. Outer Rim Artillery - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8903?tab=files
+65. Arms of Mandalore - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8853?tab=files
+66. Rebel Armaments - Star Wars Weapon Replacer (v1.5 https://www.nexusmods.com/starfield/mods/8696?tab=files
+67. Imperial Armaments -  Star Wars Weapon Replacer (v1.3 https://www.nexusmods.com/starfield/mods/8775?tab=files
+68. Star Wars Melee Weapon Replacer All in One(v1.1) https://www.nexusmods.com/starfield/mods/9016?tab=files
 
 <br />**Sounds**<br />
 
 72. Sounds From a Galaxy Far Away (v1.1.0) https://www.nexusmods.com/starfield/mods/3169?tab=files
 73. Star Wars Bounty Hunter Jetpack Sounds (v1.5) https://www.nexusmods.com/starfield/mods/2154?tab=files
-74. Amban Phase Rifle (Din Djarin's Rifle) Sounds for Lawgiver (v1.0A) https://www.nexusmods.com/starfield/mods/4181?tab=files
-75. IB-94 Blaster (Din Djarin's Pistol) Sounds for Rattler Pistol - Author's Choice (v1.0A) https://www.nexusmods.com/starfield/mods/5090?tab=files
 76. Galactic Stormtrooper Voice Lines for UC Security Female https://www.nexusmods.com/starfield/mods/2176?tab=files
 77. Galactic Stormtrooper Voice Lines for UC Security Male https://www.nexusmods.com/starfield/mods/2176?tab=files
 78. Starfield Boarding Alarm Sound Replacement Pack (Death Star) (v1.0) https://www.nexusmods.com/starfield/mods/3549?tab=files
@@ -136,7 +132,6 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 
 <br />**Patches**<br />
 
-90. Legendary Modifications (v1.02) https://www.nexusmods.com/starfield/mods/1379?tab=files
 91. Stop Flailing While Falling (v1.0) https://www.nexusmods.com/starfield/mods/6090?tab=files
 92. Sprint Headtracking Bug Fix (v1.1.1) https://www.nexusmods.com/starfield/mods/2370?tab=files
 
