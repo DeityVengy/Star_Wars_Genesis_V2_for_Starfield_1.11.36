@@ -3,14 +3,14 @@ THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, TH
 
 [![YouTube](http://i.ytimg.com/vi/nydaWXoidoo/hqdefault.jpg)](https://www.youtube.com/watch?v=nydaWXoidoo)
 
-**Requirements:**
+## **Requirements:**
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul and uninstall the Reshade to alleviate it.
 2. Steam version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass version and some of them straight up aren't compatible.
 3. Mod Organizer 2. You can use Vortex but I can't promise it'll work. I have a portable MO2 install just for Starfield which I highly recommend. It makes things alot easier to troubleshoot and test if you run into any issues
 4. Version 1.11.36 of Starfield. That's right before the big update that added land vehicles. Most of these mods will work on the new version as they've been updated but this guide is specifically for version 1.10.32 so you can replicate my video as close as possible. I will work on making another modlist for the updated version soon and it'll have instructions similar to this.
 
 
-**Manually Installed Mods:**<br />
+## **Manually Installed Mods:**<br />
 1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <br />
 Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
@@ -24,12 +24,15 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 7. Starfield Performance Boost: https://www.nexusmods.com/starfield/mods/290?tab=files
    All In One (For all) 1v6 version
 
-##**Mod Manager Modlist:**##<br />
-**Note: This is following the exact load order in Mod Organizer 2 from top to bottom**
-**Core**<br />
+## **Mod Manager Modlist:** <br />
+**Note: This is following the exact load order in Mod Organizer 2 from top to bottom**<br />
+
+**Core**
 1. Plugins.txt Enabler: https://www.nexusmods.com/starfield/mods/4157?tab=files
 2. Address Library for SFSE Plugins (v11): https://www.nexusmods.com/starfield/mods/3256/?tab=files&category=archived
-**Gameplay**<br />
+
+<br />**Gameplay**
+
 4. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
 5. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
 6. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files
@@ -41,7 +44,9 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 12. Star Wars Loading Screens (Custom mod by me) https://drive.google.com/drive/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i?usp=sharing
 13. Galactic Empire Era Name Replacement (v1.0) https://www.nexusmods.com/starfield/mods/9362?tab=files
 15. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
-**Animations and Camera**<br />
+
+<br />**Animations and Camera**<br />
+
 17. Angry Walk Animation (v1.0) https://www.nexusmods.com/starfield/mods/3434?tab=files
 18. 3rd Person 1-handed Pistol Animations (v2.0) https://www.nexusmods.com/starfield/mods/5253?tab=files
 19. Unified Camera - Third Person Tweaks (Option 3 Melee NO ZOOM) (v1.0) https://www.nexusmods.com/starfield/mods/3211?tab=files
