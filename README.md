@@ -36,13 +36,16 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 4. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
 5. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
 6. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files
-7. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
-8. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
-9. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
-10. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
-11. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
-12. Star Wars Loading Screens (Custom mod by me) https://drive.google.com/drive/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i?usp=sharing
-13. Galactic Empire Era Name Replacement (v1.0) https://www.nexusmods.com/starfield/mods/9362?tab=files
+
+<br />**HUD**
+
+8. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
+9. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
+10. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
+11. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
+12. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
+13. Star Wars Loading Screens (Custom mod by me) https://drive.google.com/drive/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i?usp=sharing
+14. Galactic Empire Era Name Replacement (v1.0) https://www.nexusmods.com/starfield/mods/9362?tab=files
 15. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 
 <br />**Animations and Camera**<br />
@@ -84,22 +87,24 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 46. Star Wars Holocron Snow Globes https://www.nexusmods.com/starfield/mods/6618?tab=files
 47. Aurebesh - Star Wars Conversion (v1.1) https://www.nexusmods.com/starfield/mods/6032?tab=files
 48. Star Wars Astromech Mini Bots (v0.8) https://www.nexusmods.com/starfield/mods/5056?tab=files
-49. Imperial Credit MAST Tower Logo Replacer (v1) https://www.nexusmods.com/starfield/mods/4816?tab=files
+49. Imperial Credit MAST Tower Logo Replacer (BUGGED) https://www.nexusmods.com/starfield/mods/4816?tab=files
 50. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) https://www.nexusmods.com/starfield/mods/5162?tab=files
 
 <br />**Armor**<br />
 
-51. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
-52. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
-53. Star Wars Constellation Commandos WIP (*) https://www.nexusmods.com/starfield/mods/7452?tab=files
-54. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
-55. Freestar Rebels (v1.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
-56. UC Empire (v1.3) https://www.nexusmods.com/starfield/mods/7223?tab=files
-57. AT-ST Enemies (v1.02) https://www.nexusmods.com/starfield/mods/8022?tab=files
-58. Star Wars Rebel Leaders (v1.1) https://www.nexusmods.com/starfield/mods/9125?tab=files
-59. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) https://www.nexusmods.com/starfield/mods/7506?tab=files
-60. Star Wars - Purge Trooper (Varuun) (*) https://www.nexusmods.com/starfield/mods/6823?tab=files
-61. Hugin's Mandalorian Ecliptic Bounty Hunter Suit (*) https://www.nexusmods.com/starfield/mods/5345?tab=files
+51. Star Wars Armor Pack (1.1) https://www.nexusmods.com/starfield/mods/8896?tab=files
+52. Mandalorian Conversion https://www.nexusmods.com/starfield/mods/4783?tab=files MUST REPLACE ESM FILE WITH MINE FROM https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7
+53. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
+54. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
+55. Star Wars Constellation Commandos WIP (BUGGED) https://www.nexusmods.com/starfield/mods/7452?tab=files
+56. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
+57. Freestar Rebels (v1.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
+58. UC Empire (v1.3) https://www.nexusmods.com/starfield/mods/7223?tab=files
+59. AT-ST Enemies (v1.02) https://www.nexusmods.com/starfield/mods/8022?tab=files
+60. Star Wars Rebel Leaders (v1.1) https://www.nexusmods.com/starfield/mods/9125?tab=files
+61. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) https://www.nexusmods.com/starfield/mods/7506?tab=files
+62. Star Wars - Purge Trooper (Varuun) https://www.nexusmods.com/starfield/mods/6823?tab=files
+63. Hugin's Mandalorian Ecliptic Bounty Hunter Suit (*) https://www.nexusmods.com/starfield/mods/5345?tab=files
 
 <br />**Weapons**<br />
 
