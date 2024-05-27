@@ -180,6 +180,6 @@ Included in this Github repository. Just download <3<br />
 4. I see the Star Wars themed weapons but they don't fire lasers. How do I fix this?<br />
    Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files.
 5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
-   If you see this on a select few weapons, then it's normal and part of the WIP nature of this modlist. If ALL weapons are like that then it could be anything tbh. Game version mismatch, save issue, mod outdated, etc.
+   If you see this on a select few weapons, then it's normal and part of the WIP nature of this modlist. Starting a NG+ save or a new save should/will fix most of it. If ALL weapons are like that then it could be anything tbh. Game version mismatch, save issue, mod outdated, etc.
 6. X Mod isn't working. What do i do?
-   Make sure you downloaded the correct version I listed. Make sure you followed my load order. Make sure your Starfield version is V1.10.32
+   Make sure you downloaded the correct version I listed. Make sure you followed my load order. Make sure your Starfield version is V1.11.36
