@@ -107,17 +107,18 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 55. Mandalorian Conversion https://www.nexusmods.com/starfield/mods/4783?tab=files REPLACE ESM FILE WITH MINE FROM THIS GITHUB REPOSITORY
 56. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
 57. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
-58. Star Wars Constellation Commandos WIP (NEEDS UPDATE) https://www.nexusmods.com/starfield/mods/7452?tab=files
-59. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
-60. Freestar Rebels (v1.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
-61. UC Empire (v1.3) https://www.nexusmods.com/starfield/mods/7223?tab=files
-62. AT-ST Enemies (v1.02) https://www.nexusmods.com/starfield/mods/8022?tab=files
-63. Star Wars Rebel Leaders (v1.1) https://www.nexusmods.com/starfield/mods/9125?tab=files
-64. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) https://www.nexusmods.com/starfield/mods/7506?tab=files
-65. Star Wars - Purge Trooper (Varuun) https://www.nexusmods.com/starfield/mods/6823?tab=files
-66. Hugin's Mandalorian Ecliptic Bounty Hunter Suit https://www.nexusmods.com/starfield/mods/5345?tab=files
-67. Coruscant Police Uniform (Neon/Ryujin Security Replacer) https://www.nexusmods.com/starfield/mods/9313?tab=files
-68. Bespin Security Uniform (Trident Security Replacer) https://www.nexusmods.com/starfield/mods/9325?tab=files
+58. Star Wars Constellation Commandos WIP (NEEDS UPDATE) https://www.nexusmods.com/starfield/mods/7452?tab=files<br />
+    Download my version from: https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+60. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
+61. Freestar Rebels (v1.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
+62. UC Empire (v1.3) https://www.nexusmods.com/starfield/mods/7223?tab=files
+63. AT-ST Enemies (v1.02) https://www.nexusmods.com/starfield/mods/8022?tab=files
+64. Star Wars Rebel Leaders (v1.1) https://www.nexusmods.com/starfield/mods/9125?tab=files
+65. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) https://www.nexusmods.com/starfield/mods/7506?tab=files
+66. Star Wars - Purge Trooper (Varuun) https://www.nexusmods.com/starfield/mods/6823?tab=files
+67. Hugin's Mandalorian Ecliptic Bounty Hunter Suit https://www.nexusmods.com/starfield/mods/5345?tab=files
+68. Coruscant Police Uniform (Neon/Ryujin Security Replacer) https://www.nexusmods.com/starfield/mods/9313?tab=files
+69. Bespin Security Uniform (Trident Security Replacer) https://www.nexusmods.com/starfield/mods/9325?tab=files
 
 <br />**Weapons**<br />
 
