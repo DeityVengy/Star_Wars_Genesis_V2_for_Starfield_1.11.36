@@ -44,7 +44,7 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 10. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
 11. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
 12. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
-13. Star Wars Loading Screens (Custom mod by me) https://drive.google.com/drive/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i?usp=sharing
+13. Star Wars Loading Screens (Custom mod by me) DOWNLOAD FROM THIS REPOSITORY
 14. Galactic Empire Era Name Replacement (v1.0) https://www.nexusmods.com/starfield/mods/9362?tab=files
 15. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 
@@ -93,7 +93,7 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 <br />**Armor**<br />
 
 51. Star Wars Armor Pack (1.1) https://www.nexusmods.com/starfield/mods/8896?tab=files
-52. Mandalorian Conversion https://www.nexusmods.com/starfield/mods/4783?tab=files MUST REPLACE ESM FILE WITH MINE FROM https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7
+52. Mandalorian Conversion https://www.nexusmods.com/starfield/mods/4783?tab=files REPLACE ESM FILE WITH MINE FROM THIS REPOSITORY
 53. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
 54. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
 55. Star Wars Constellation Commandos WIP (BUGGED) https://www.nexusmods.com/starfield/mods/7452?tab=files
@@ -144,7 +144,7 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 ![image](https://github.com/DeityVengy/Ultimate-Star-Wars-Conversion-Modlist-for-Starfield/assets/170469610/ff70ea3c-804a-4953-85de-06073d97df00)
 
 **Starfield Custom.ini File** <br />
-https://drive.google.com/drive/u/1/folders/11N-gyQbtkg94jz-nF9f_i0wOKyEi817i <br />
+Included in this Github repository. Just download <3<br />
 
 **Experimental Mods:**<br />
 1. Starfield Ultimate Graphics with SSRTGI (Reshade): https://www.nexusmods.com/starfield/mods/1565?tab=files<br />
