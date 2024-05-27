@@ -67,25 +67,25 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 30. Star Wars New Atlantis Star Destroyer (v0.1) https://www.nexusmods.com/starfield/mods/6820?tab=files
 31. Star Wars Akila Faction Hologram Statue's (Dark Blue) (v1.0) https://www.nexusmods.com/starfield/mods/6467?tab=files
 32. New Atlantis Death Star Hologram (v0.3) https://www.nexusmods.com/starfield/mods/6479?tab=files
-33. BD-1 Vasco (v1.0) https://www.nexusmods.com/starfield/mods/8235?tab=files
 34. Coruscant (WIP) (v1.0) https://www.nexusmods.com/starfield/mods/3461?tab=files
 35. Realistic Stars 4k (v1.2) https://www.nexusmods.com/starfield/mods/2151?tab=files
 36. Enhanced Starfield Clouds - Full Res (v1.0) https://www.nexusmods.com/starfield/mods/3873?tab=files
 
 <br />**Textures**<br />
 
-38. Star Wars Grenades https://www.nexusmods.com/starfield/mods/6774?tab=files
-39. Star Wars Data Pads https://www.nexusmods.com/starfield/mods/6844?tab=files
-40. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
-41. Star Wars Contraband Replacer (v0.2) https://www.nexusmods.com/starfield/mods/7855?tab=files
-42. Star Wars Credits (Only Credits) (vOnlyMoney) https://www.nexusmods.com/starfield/mods/5023?tab=files
-43. Star Wars Binoculars https://www.nexusmods.com/starfield/mods/6843?tab=files
-44. Gonk Trashbins https://www.nexusmods.com/starfield/mods/5523?tab=files
-45. Star Wars Holocron Snow Globes https://www.nexusmods.com/starfield/mods/6618?tab=files
-46. Aurebesh - Star Wars Conversion (v1.1) https://www.nexusmods.com/starfield/mods/6032?tab=files
-47. Star Wars Astromech Mini Bots (v0.8) https://www.nexusmods.com/starfield/mods/5056?tab=files
-48. Imperial Credit MAST Tower Logo Replacer (v1) https://www.nexusmods.com/starfield/mods/4816?tab=files
-49. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) https://www.nexusmods.com/starfield/mods/5162?tab=files
+38. BD-1 Vasco (v1.0) https://www.nexusmods.com/starfield/mods/8235?tab=files
+39. Star Wars Grenades https://www.nexusmods.com/starfield/mods/6774?tab=files
+40. Star Wars Data Pads https://www.nexusmods.com/starfield/mods/6844?tab=files
+41. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
+42. Star Wars Contraband Replacer (v0.2) https://www.nexusmods.com/starfield/mods/7855?tab=files
+43. Star Wars Credits (Only Credits) (vOnlyMoney) https://www.nexusmods.com/starfield/mods/5023?tab=files
+44. Star Wars Binoculars https://www.nexusmods.com/starfield/mods/6843?tab=files
+45. Gonk Trashbins https://www.nexusmods.com/starfield/mods/5523?tab=files
+46. Star Wars Holocron Snow Globes https://www.nexusmods.com/starfield/mods/6618?tab=files
+47. Aurebesh - Star Wars Conversion (v1.1) https://www.nexusmods.com/starfield/mods/6032?tab=files
+48. Star Wars Astromech Mini Bots (v0.8) https://www.nexusmods.com/starfield/mods/5056?tab=files
+49. Imperial Credit MAST Tower Logo Replacer (v1) https://www.nexusmods.com/starfield/mods/4816?tab=files
+50. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) https://www.nexusmods.com/starfield/mods/5162?tab=files
 
 <br />**Armor**<br />
 
