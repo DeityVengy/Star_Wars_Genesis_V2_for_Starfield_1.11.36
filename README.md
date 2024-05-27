@@ -104,10 +104,11 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
    
    
 54. Delgado of Mandalore - Delgado Retexture Only https://www.nexusmods.com/starfield/mods/3146?tab=files
-55. Mandalorian Conversion https://www.nexusmods.com/starfield/mods/4783?tab=files REPLACE ESM FILE WITH MINE FROM THIS GITHUB REPOSITORY
-56. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
-57. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
-58. Star Wars Constellation Commandos WIP (NEEDS UPDATE) https://www.nexusmods.com/starfield/mods/7452?tab=files<br />
+55. The Mandalorian - Armor and Armor with Cape (Starborn Suit Replacer) https://www.nexusmods.com/starfield/mods/2848?tab=files
+56. Mandalorian Conversion https://www.nexusmods.com/starfield/mods/4783?tab=files REPLACE ESM FILE WITH MINE FROM THIS GITHUB REPOSITORY
+57. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
+58. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
+59. Star Wars Constellation Commandos WIP (NEEDS UPDATE) https://www.nexusmods.com/starfield/mods/7452?tab=files<br />
     Download my version from: https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 60. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
 61. Freestar Rebels (v1.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
