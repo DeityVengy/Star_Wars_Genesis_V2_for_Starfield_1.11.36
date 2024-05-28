@@ -11,6 +11,7 @@ THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, TH
 
 
 ## **Manually Installed Mods:**<br />
+These go in your root game directory<br />
 1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <br />
 Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
