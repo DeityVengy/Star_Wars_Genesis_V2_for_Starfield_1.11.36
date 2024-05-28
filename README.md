@@ -11,7 +11,7 @@ THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, TH
 
 
 ## **Manually Installed Mods:**<br />
-These go in your root game directory<br />
+Read each mod instruction carefully please. They're manually installed in differen't places <br />
 1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <br />
 Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
@@ -146,6 +146,9 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 83. NOVA Engines STAR WARS (v1.0) https://www.nexusmods.com/starfield/mods/8526?tab=files
 84. Star Wars Mos Eisley Cantina Music Replacer (v1.0) https://www.nexusmods.com/starfield/mods/5390?tab=files
 86. Star Wars UI Sounds https://www.nexusmods.com/starfield/mods/9390?tab=files
+87. Immersive Explosive and Grenade Sounds https://www.nexusmods.com/starfield/mods/2757?tab=files
+88. No Headshot and Crit Sounds - Immersive and Realistic https://www.nexusmods.com/starfield/mods/4414?tab=files
+89. Satisfying Headshots - Sound Overhaul https://www.nexusmods.com/starfield/mods/3823?tab=files
 
 <br />**Performance**<br />
 
