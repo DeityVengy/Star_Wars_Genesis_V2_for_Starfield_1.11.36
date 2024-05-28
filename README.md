@@ -20,7 +20,6 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
    I did the Forever Jetpack option but feel free to do any of the other ones. Press F1 to enable.
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
    Install the RealADS_Sniper one
-6. Mandalorian Theme Main Menu: https://www.nexusmods.com/starfield/mods/2989?tab=files
 7. Starfield Performance Boost: https://www.nexusmods.com/starfield/mods/290?tab=files
    All In One (For all) 1v6 version
 
@@ -41,13 +40,14 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 <br />**HUD**
 
 8. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
-9. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
-10. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
-11. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
-12. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
-13. Star Wars Loading Screens (Custom mod by me) https://www.nexusmods.com/starfield/mods/9385/?tab=files
-14. Galactic Empire Era Name Replacement (v1.0) https://www.nexusmods.com/starfield/mods/9362?tab=files
-15. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
+9. Mandalorian Title Screen Overhaul
+10. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
+11. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
+12. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
+13. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
+14. Star Wars Loading Screens (Custom mod by me) https://www.nexusmods.com/starfield/mods/9385/?tab=files
+15. Galactic Empire Era Name Replacement (v1.0) https://www.nexusmods.com/starfield/mods/9362?tab=files
+16. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 
 <br />**Animations and Camera**<br />
 
@@ -143,7 +143,6 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 82. AMUN Engines STAR WARS (v1.0) https://www.nexusmods.com/starfield/mods/8522?tab=files
 83. NOVA Engines STAR WARS (v1.0) https://www.nexusmods.com/starfield/mods/8526?tab=files
 84. Star Wars Mos Eisley Cantina Music Replacer (v1.0) https://www.nexusmods.com/starfield/mods/5390?tab=files
-85. The Mandalorian Theme Main Menu (v1.1) https://www.nexusmods.com/starfield/mods/2989?tab=files
 86. Star Wars UI Sounds https://www.nexusmods.com/starfield/mods/9390?tab=files
 
 <br />**Performance**<br />
