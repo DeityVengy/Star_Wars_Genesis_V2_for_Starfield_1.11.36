@@ -1,4 +1,5 @@
-This is a guide on installing my Star Wars conversion modlist for Starfield, as seen on YouTube and featured on IGN. This modlist includes but is not limited to:
+This is a guide on installing my Star Wars conversion modlist for Starfield, as seen on YouTube and featured on IGN.<br />
+This modlist includes but is not limited to:
 
 <br />
 Just beware this is still a work in progress and this GitHub page will be updated periodically. 
