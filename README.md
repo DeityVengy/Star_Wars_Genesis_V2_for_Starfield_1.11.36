@@ -144,11 +144,15 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 81. Star Wars A Wing Sound Replacement for KE-20 AND KE-31 Cannons (v1.0) https://www.nexusmods.com/starfield/mods/2581?tab=files
 82. AMUN Engines STAR WARS (v1.0) https://www.nexusmods.com/starfield/mods/8522?tab=files
 83. NOVA Engines STAR WARS (v1.0) https://www.nexusmods.com/starfield/mods/8526?tab=files
-84. Star Wars Mos Eisley Cantina Music Replacer (v1.0) https://www.nexusmods.com/starfield/mods/5390?tab=files
-86. Star Wars UI Sounds https://www.nexusmods.com/starfield/mods/9390?tab=files
-87. Immersive Explosive and Grenade Sounds https://www.nexusmods.com/starfield/mods/2757?tab=files
-88. No Headshot and Crit Sounds - Immersive and Realistic https://www.nexusmods.com/starfield/mods/4414?tab=files
-89. Satisfying Headshots - Sound Overhaul https://www.nexusmods.com/starfield/mods/3823?tab=files
+84. No Grav Jump Music (Muted - Silent - No overlapping Sounds) https://www.nexusmods.com/starfield/mods/609?tab=files
+85. No Interplanetary Travel Music https://www.nexusmods.com/starfield/mods/4622?tab=files
+86. Hyperspace SFX - Grav Jump Replace https://www.nexusmods.com/starfield/mods/2234?tab=files
+87. Star Wars Mos Eisley Cantina Music Replacer (v1.0) https://www.nexusmods.com/starfield/mods/5390?tab=files
+88. Star Wars UI Sounds https://www.nexusmods.com/starfield/mods/9390?tab=files
+89. Immersive Explosive and Grenade Sounds https://www.nexusmods.com/starfield/mods/2757?tab=files
+90. No Headshot and Crit Sounds - Immersive and Realistic https://www.nexusmods.com/starfield/mods/4414?tab=files
+91. Satisfying Headshots - Sound Overhaul https://www.nexusmods.com/starfield/mods/3823?tab=files
+92. Star Wars City Music
 
 <br />**Performance**<br />
 
