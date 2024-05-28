@@ -1,4 +1,7 @@
-This is a guide on installing my Star Wars conversion modlist for Starfield, as seen on YouTube and featured on IGN. Just beware this is still a work in progress and this GitHub page will be updated periodically. 
+This is a guide on installing my Star Wars conversion modlist for Starfield, as seen on YouTube and featured on IGN. This modlist includes but is not limited to:
+
+<br />
+Just beware this is still a work in progress and this GitHub page will be updated periodically. 
 THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, THEN THIS ISN'T READY YET AND IT WILL NOT WORK
 
 [![YouTube](http://i.ytimg.com/vi/nydaWXoidoo/hqdefault.jpg)](https://www.youtube.com/watch?v=nydaWXoidoo)
