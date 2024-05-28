@@ -40,7 +40,8 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 <br />**HUD**
 
 8. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
-9. Mandalorian Title Screen Overhaul
+9. Star WarsMandalorian Title Screen Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9396/?tab=files <br />
+   Install part 1 with mod organizer and part 2 manually in your Starfield folder under steamapps/common
 10. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
 11. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
 12. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
