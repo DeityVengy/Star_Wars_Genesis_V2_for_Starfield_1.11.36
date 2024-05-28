@@ -152,7 +152,11 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 89. Immersive Explosive and Grenade Sounds https://www.nexusmods.com/starfield/mods/2757?tab=files
 90. No Headshot and Crit Sounds - Immersive and Realistic https://www.nexusmods.com/starfield/mods/4414?tab=files
 91. Satisfying Headshots - Sound Overhaul https://www.nexusmods.com/starfield/mods/3823?tab=files
-92. Star Wars City Music
+92. Star Wars Music and Ambience Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9398?tab=files
+    Atlantis City
+    Akila City
+    Neon City
+    Cydonia
 
 <br />**Performance**<br />
 
