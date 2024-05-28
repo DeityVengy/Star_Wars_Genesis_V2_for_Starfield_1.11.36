@@ -7,13 +7,13 @@ THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, TH
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul and uninstall the Reshade to alleviate it.
 2. Steam version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass version and some of them straight up aren't compatible.
 3. Mod Organizer 2. You can use Vortex but I can't promise it'll work. I have a portable MO2 install just for Starfield which I highly recommend. It makes things alot easier to troubleshoot and test if you run into any issues
-4. Version 1.11.36 of Starfield. That's right before the big update that added land vehicles. Most of these mods will work on the new version as they've been updated but this guide is specifically for version 1.10.32 so you can replicate my video as close as possible. I will work on making another modlist for the updated version soon and it'll have instructions similar to this.
+4. Version 1.11.36 of Starfield
 
 
 ## **Manually Installed Mods:**<br />
 Read each mod instruction carefully please. They're manually installed in differen't places <br />
 1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <br />
-Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
+   Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
    Install just the main file. You can look into doing the optional muscular mando version if you're interested in that.
 3. Starfield Hotkeys: https://www.nexusmods.com/starfield/mods/1578?tab=files
@@ -21,6 +21,8 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
    I did the Forever Jetpack option but feel free to do any of the other ones. Press F1 to enable.
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
    Install the RealADS_Sniper one
+6. Star Wars Mandalorian Title Screen Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9396/?tab=files <br />
+   Install Part 2 Only <br />
 7. Starfield Performance Boost: https://www.nexusmods.com/starfield/mods/290?tab=files
    All In One (For all) 1v6 version
 
@@ -41,8 +43,8 @@ Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v
 <br />**HUD**
 
 8. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
-9. Star WarsMandalorian Title Screen Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9396/?tab=files <br />
-   Install part 1 with mod organizer and part 2 manually in your Starfield folder under steamapps/common
+9. Star Wars Mandalorian Title Screen Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9396/?tab=files <br />
+   Install Part 1 only as you've already manually installed Part 2
 10. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
 11. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
 12. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
