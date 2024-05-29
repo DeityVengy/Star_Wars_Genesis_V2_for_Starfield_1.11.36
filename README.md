@@ -160,11 +160,6 @@ Read each mod instruction carefully please. They're manually installed in differ
 90. No Headshot and Crit Sounds - Immersive and Realistic https://www.nexusmods.com/starfield/mods/4414?tab=files
 91. Satisfying Headshots - Sound Overhaul https://www.nexusmods.com/starfield/mods/3823?tab=files
 92. Star Wars Music and Ambience Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9398?tab=files
-    Atlantis City
-    Akila City
-    Neon City
-    Cydonia
-    The Well
 
 <br />**Performance**<br />
 
@@ -181,6 +176,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 96. Alternate Impact Sound (Hit Marker) https://www.nexusmods.com/starfield/mods/5519?tab=description
 97. Kill Essential NPC https://www.nexusmods.com/starfield/mods/232?tab=files
 98. Crowd NPC Eye Ambient Occlusion Fix https://www.nexusmods.com/starfield/mods/2718?tab=files
+99. Neon Security Voice Fix https://www.nexusmods.com/starfield/mods/7947?tab=files
+100. Vasco - Reduced Footsteps Volume by Xtudo https://www.nexusmods.com/starfield/mods/2808?tab=files
 
 ## **Plugins Load Order:**<br />
 ![image](https://github.com/DeityVengy/Ultimate-Star-Wars-Conversion-Modlist-for-Starfield-1.11.36./assets/170469610/52a7513a-7644-4bb1-8521-9ae1bfda49cb)
