@@ -126,7 +126,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 64. Star Wars Rebel Leaders (v1.1) https://www.nexusmods.com/starfield/mods/9125?tab=files
 65. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) https://www.nexusmods.com/starfield/mods/7506?tab=files
 66. Star Wars - Purge Trooper (Varuun) https://www.nexusmods.com/starfield/mods/6823?tab=files
-67. Hugin's Mandalorian Ecliptic Bounty Hunter Suit https://www.nexusmods.com/starfield/mods/5345?tab=files
+67. Trandoshan Mercs Ecliptic Replacer https://www.nexusmods.com/starfield/mods/8852?tab=files
 68. Coruscant Police Uniform (Neon/Ryujin Security Replacer) https://www.nexusmods.com/starfield/mods/9313?tab=files
 69. Bespin Security Uniform (Trident Security Replacer) https://www.nexusmods.com/starfield/mods/9325?tab=files
 
