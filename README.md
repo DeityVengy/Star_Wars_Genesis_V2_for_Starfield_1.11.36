@@ -53,8 +53,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 11. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
 12. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
 13. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
-14. Star Wars Loading Screens (Custom mod by me) https://www.nexusmods.com/starfield/mods/9385/?tab=files
-15. Galactic Empire Era Name Replacement (v1.0) https://www.nexusmods.com/starfield/mods/9362?tab=files
+14. Star Wars Loading Screens (my mod) https://www.nexusmods.com/starfield/mods/9385/?tab=files
+15. Star Wars Name Replacement Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9421?tab=files
 16. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 17. Show Star Names https://www.nexusmods.com/starfield/mods/5188?tab=files
 
@@ -103,7 +103,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 <br />**Armor**<br />
 
 51. Star Wars Armor Pack (1.1) https://www.nexusmods.com/starfield/mods/8896?tab=files
-52. Star Wars Inspired Retextures https://www.nexusmods.com/starfield/mods/4434?tab=description <br />
+52. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) REPLACE ESM FILE WITH MINE FROM THIS GITHUB REPOSITORY
+53. Star Wars Inspired Retextures https://www.nexusmods.com/starfield/mods/4434?tab=description <br />
    Cade Bane Freestar - Delete Meshes folder and delete outfit_ranger_01 folder in Textures folder<br />
    Luke Award Outfit<br />
    Rey Scrapper Outfit<br />
@@ -113,12 +114,13 @@ Read each mod instruction carefully please. They're manually installed in differ
    
    
 54. Delgado of Mandalore - Delgado Retexture Only https://www.nexusmods.com/starfield/mods/3146?tab=files
-55. The Mandalorian - Armor and Armor with Cape (Starborn Suit Replacer) https://www.nexusmods.com/starfield/mods/2848?tab=files
-56. Mandalorian Conversion https://www.nexusmods.com/starfield/mods/4783?tab=files REPLACE ESM FILE WITH MINE FROM THIS GITHUB REPOSITORY
+55. TG's Boba Fett Armor (Bob) Starborn Replacer<br />
+    Starborn Cape Remover<br />
+    Boba Fett Kama Addon (Cape Replacer)<br />
+    The Hunter (Cape Replacer)<br />
 57. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
 58. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
-59. Star Wars Constellation Commandos WIP (NEEDS UPDATE) https://www.nexusmods.com/starfield/mods/7452?tab=files<br />
-    Download my version from: https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+59. Star Wars Constellation Commandos WIP (fixed by me) https://www.nexusmods.com/starfield/mods/9417
 60. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
 61. Freestar Rebels (v1.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
 62. UC Empire (v1.3) https://www.nexusmods.com/starfield/mods/7223?tab=files
