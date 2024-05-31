@@ -143,6 +143,10 @@ Read each mod instruction carefully please. They're manually installed in differ
     Credit: Saighdearagh (had to fix myself due to update)
 74. Smuggler's Outfit (Deep Recon Spacesuit Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 75. Scoundrel's Outfit (Space Trucke Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+76. Star Wars Bounty Hunter Pack https://www.nexusmods.com/starfield/mods/9147?tab=files
+77. Dengar Mercenary Spacesuit Replacer https://www.nexusmods.com/starfield/mods/9434?tab=files
+78. Hugin's KOTOR Neo Crusader for Spacer (Navigater Replacer) <br /> https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+    Credit goes to Hugin&Mugin/N7Tai again for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it
 
 <br />**Weapons**<br />
 
