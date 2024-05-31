@@ -140,6 +140,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 73. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
     Credit: Saighdearagh (had to fix myself due to update)
 74. Smuggler's Outfit (Deep Recon Spacesuit Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+75. Scoundrel's Outfit (Space Trucke Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 
 <br />**Weapons**<br />
 
@@ -169,7 +170,6 @@ Read each mod instruction carefully please. They're manually installed in differ
 88. Star Wars UI Sounds https://www.nexusmods.com/starfield/mods/9390?tab=files
 89. Immersive Explosive and Grenade Sounds https://www.nexusmods.com/starfield/mods/2757?tab=files
 90. No Headshot and Crit Sounds - Immersive and Realistic https://www.nexusmods.com/starfield/mods/4414?tab=files
-91. Satisfying Headshots - Sound Overhaul https://www.nexusmods.com/starfield/mods/3823?tab=files
 92. Star Wars Music and Ambience Overhaul (my mod) https://drive.google.com/file/d/1kLRhEXBYP5zha4WYdo2LYJuqSKvAdtoo/view?usp=sharing
 
 <br />**Performance**<br />
