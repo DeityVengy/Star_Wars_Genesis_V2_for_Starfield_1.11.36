@@ -139,8 +139,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 72. Star Wars - Shoretrooper Paradiso Security Replacer https://www.nexusmods.com/starfield/mods/8822?tab=files
 73. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
     Credit: Saighdearagh (had to fix myself due to update)
-74. Smuggler's Outfit (Deep Recon Spacesuit Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
-75. Scoundrel's Outfit (Space Trucker Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+74. Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) https://www.nexusmods.com/starfield/mods/9436?tab=files
 76. Star Wars Bounty Hunter Pack https://www.nexusmods.com/starfield/mods/9147?tab=files
 77. Dengar Mercenary Spacesuit Replacer https://www.nexusmods.com/starfield/mods/9434?tab=files
 78. Hugin's KOTOR Neo Crusader for Spacer (Navigater Replacer) <br /> https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
