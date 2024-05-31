@@ -120,10 +120,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 
 51. Star Wars Armor Pack (1.1) https://www.nexusmods.com/starfield/mods/8896?tab=files
 52. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) https://www.nexusmods.com/starfield/mods/4783?tab=files
-55. TG's Boba Fett Armor (Bob) Starborn Replacer<br />
-    Starborn Cape Remover<br />
-    Boba Fett Kama Addon (Cape Replacer)<br />
-    The Hunter (Cape Replacer)<br />
+55. TG's Boba Fett Armor Pack (Starborn Replacer)<br /> https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+    I will delete this once TG updates her mod.  My mod is a combination of her main mod and 3 optional changes on it.
 57. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
 59. Star Wars Constellation Commandos WIP (fixed by me) https://www.nexusmods.com/starfield/mods/9417
 61. Freestar Rebels (v1.3) https://www.nexusmods.com/starfield/mods/7410?tab=files
@@ -136,17 +134,17 @@ Read each mod instruction carefully please. They're manually installed in differ
 68. Coruscant Police Uniform (Neon/Ryujin Security Replacer) https://www.nexusmods.com/starfield/mods/9313?tab=files
 69. Bespin Security Uniform (Trident Security Replacer) https://www.nexusmods.com/starfield/mods/9325?tab=files
 70. Dark Trooper Armor (Shocktrooper Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing<br />
-    Credit goes to Hugin&Mugin/N7Tai for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it
+    Credit goes to Hugin&Mugin/N7Tai for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it. I will delete it if he returns as he is currently MIA
 71. Star Wars - Shoretrooper Main https://www.nexusmods.com/starfield/mods/8822?tab=files
 72. Star Wars - Shoretrooper Paradiso Security Replacer https://www.nexusmods.com/starfield/mods/8822?tab=files
 73. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
     Credit: Saighdearagh (had to fix myself due to update)
 74. Smuggler's Outfit (Deep Recon Spacesuit Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
-75. Scoundrel's Outfit (Space Trucke Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+75. Scoundrel's Outfit (Space Trucker Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 76. Star Wars Bounty Hunter Pack https://www.nexusmods.com/starfield/mods/9147?tab=files
 77. Dengar Mercenary Spacesuit Replacer https://www.nexusmods.com/starfield/mods/9434?tab=files
 78. Hugin's KOTOR Neo Crusader for Spacer (Navigater Replacer) <br /> https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
-    Credit goes to Hugin&Mugin/N7Tai again for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it
+    Credit goes to Hugin&Mugin/N7Tai again for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it. I will delete it if he returns as he is currently MIA
 
 <br />**Weapons**<br />
 
