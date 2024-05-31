@@ -112,6 +112,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 52. Delgado of Mandalore - Delgado Retexture Only https://www.nexusmods.com/starfield/mods/3146?tab=files
 53. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
 54. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
+55. RTM's Neon Businesswear Retexture https://www.nexusmods.com/starfield/mods/9154?tab=files
 
 <br />**Armor**<br />
 
@@ -136,7 +137,9 @@ Read each mod instruction carefully please. They're manually installed in differ
     Credit goes to Hugin&Mugin/N7Tai for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it
 71. Star Wars - Shoretrooper Main https://www.nexusmods.com/starfield/mods/8822?tab=files
 72. Star Wars - Shoretrooper Paradiso Security Replacer https://www.nexusmods.com/starfield/mods/8822?tab=files
-73. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://www.nexusmods.com/starfield/mods/7799?tab=files
+73. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
+    Credit: Saighdearagh (had to fix myself due to update)
+74. Smuggler's Outfit (Deep Recon Spacesuit Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 
 <br />**Weapons**<br />
 
