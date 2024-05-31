@@ -101,6 +101,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 50. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) https://www.nexusmods.com/starfield/mods/5162?tab=files
 
 <br />**Outfits**<br />
+
 51. Star Wars Inspired Retextures https://www.nexusmods.com/starfield/mods/4434?tab=description <br />
    Cade Bane Freestar - Delete Meshes folder and delete outfit_ranger_01 folder in Textures folder<br />
    Luke Award Outfit<br />
