@@ -136,6 +136,7 @@ Read each mod instruction carefully please. They're manually installed in differ
     Credit goes to Hugin&Mugin/N7Tai for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it
 71. Star Wars - Shoretrooper Main https://www.nexusmods.com/starfield/mods/8822?tab=files
 72. Star Wars - Shoretrooper Paradiso Security Replacer https://www.nexusmods.com/starfield/mods/8822?tab=files
+73. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://www.nexusmods.com/starfield/mods/7799?tab=files
 
 <br />**Weapons**<br />
 
