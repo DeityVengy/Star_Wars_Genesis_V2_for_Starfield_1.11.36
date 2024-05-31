@@ -116,7 +116,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 <br />**Armor**<br />
 
 51. Star Wars Armor Pack (1.1) https://www.nexusmods.com/starfield/mods/8896?tab=files
-52. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) REPLACE ESM FILE WITH MINE FROM THIS GITHUB REPOSITORY
+52. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) REPLACE ESM FILE WITH MINE FROM https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 55. TG's Boba Fett Armor (Bob) Starborn Replacer<br />
     Starborn Cape Remover<br />
     Boba Fett Kama Addon (Cape Replacer)<br />
