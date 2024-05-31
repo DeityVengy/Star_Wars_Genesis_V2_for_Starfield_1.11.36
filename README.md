@@ -113,6 +113,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 53. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
 54. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
 55. RTM's Neon Businesswear Retexture https://www.nexusmods.com/starfield/mods/9154?tab=files
+56. Rebel Jacket - Dark Brown (Noel's Outfit) https://www.nexusmods.com/starfield/mods/5826?tab=files
+57. Striker Leather Coat (Dark Brown) https://www.nexusmods.com/starfield/mods/7710?tab=files
 
 <br />**Armor**<br />
 
