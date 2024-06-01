@@ -39,6 +39,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 
 <br />**Gameplay**
 
+1. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
 4. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
 5. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
 6. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
@@ -97,7 +98,6 @@ Read each mod instruction carefully please. They're manually installed in differ
 38. BD-1 Vasco (v1.0) https://www.nexusmods.com/starfield/mods/8235?tab=files
 39. Star Wars Grenades https://www.nexusmods.com/starfield/mods/6774?tab=files
 40. Star Wars Data Pads https://www.nexusmods.com/starfield/mods/6844?tab=files
-41. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
 42. Star Wars Contraband Replacer (v0.2) https://www.nexusmods.com/starfield/mods/7855?tab=files
 43. Star Wars Credits (Only Credits) (vOnlyMoney) https://www.nexusmods.com/starfield/mods/5023?tab=files
 44. Star Wars Binoculars https://www.nexusmods.com/starfield/mods/6843?tab=files
@@ -150,8 +150,14 @@ Read each mod instruction carefully please. They're manually installed in differ
 74. Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) https://www.nexusmods.com/starfield/mods/9436?tab=files
 76. Star Wars Bounty Hunter Pack https://www.nexusmods.com/starfield/mods/9147?tab=files
 77. Dengar Mercenary Spacesuit Replacer https://www.nexusmods.com/starfield/mods/9434?tab=files
-78. Hugin's KOTOR Neo Crusader for Spacer (Navigater Replacer) <br /> https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+78. Boba Fet 1313 - https://www.nexusmods.com/starfield/mods/9193?tab=files
+79. Boba Fett 1313 Explorer Suit Replacement - https://www.nexusmods.com/starfield/mods/9435?tab=files
+80. Hugin's KOTOR Neo Crusader for Spacer (Navigater Replacer) <br /> https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
     Credit goes to Hugin&Mugin/N7Tai again for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it. I will delete it if he returns as he is currently MIA
+81. Star Wars - BB Echo Armor https://www.nexusmods.com/starfield/mods/9118?tab=files
+82. BB Echo Mercury Suit Replacer https://www.nexusmods.com/starfield/mods/9448?tab=files
+83. Star Wars - Mimban Stormtrooper https://www.nexusmods.com/starfield/mods/8965?tab=files
+84. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer https://www.nexusmods.com/starfield/mods/9447?tab=files
 
 <br />**Weapons**<br />
 
