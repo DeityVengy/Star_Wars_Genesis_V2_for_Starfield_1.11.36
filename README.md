@@ -127,7 +127,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 <br />**Armor**<br />
 
 51. Star Wars Armor Pack (1.1) https://www.nexusmods.com/starfield/mods/8896?tab=files
-52. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) https://www.nexusmods.com/starfield/mods/4783?tab=files
+52. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) (NO MANTIS) https://www.nexusmods.com/starfield/mods/4783?tab=files
 55. TG's Boba Fett Armor Pack (Starborn Replacer)<br /> https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
     I will delete this once TG updates her mod.  My mod is a combination of her main mod and 3 optional changes on it.
 57. Star Wars Ground Crew Rebel Pilot (*) https://www.nexusmods.com/starfield/mods/6078?tab=files
