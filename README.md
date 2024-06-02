@@ -3,8 +3,7 @@
 This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
 
 There will only be one iteration of this page unless there are emergency bug fixes required, which will be highlighted at the top here. Otherwise, V3 will feature minor bug fixes and additional features.
-THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, THEN THIS ISN'T READY YET AND IT WILL NOT WORK
-
+THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, THEN THIS IS STILL IN BETA AND YOU WILL ENCOUNTER ISSUES
 
 ## **Requirements:**
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul and uninstall the Reshade to alleviate it.
