@@ -1,16 +1,15 @@
-This is a guide on installing my Star Wars conversion modlist for Starfield, as seen on YouTube and featured on IGN.<br />
-This modlist includes but is not limited to:
+# Star Wars Genesis V2: Total Conversion Modlist for Starfield
 
-<br />
-Just beware this is still a work in progress and this GitHub page will be updated periodically. 
+This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
+
+There will only be one iteration of this page unless there are emergency bug fixes required, which will be highlighted at the top here. Otherwise, V3 will feature minor bug fixes and additional features.
 THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, THEN THIS ISN'T READY YET AND IT WILL NOT WORK
 
-[![YouTube](http://i.ytimg.com/vi/nydaWXoidoo/hqdefault.jpg)](https://www.youtube.com/watch?v=nydaWXoidoo)
 
 ## **Requirements:**
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul and uninstall the Reshade to alleviate it.
 2. Steam version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass version and some of them straight up aren't compatible.
-3. Mod Organizer 2. You can use Vortex but I can't promise it'll work. I have a portable MO2 install just for Starfield which I highly recommend. It makes things alot easier to troubleshoot and test if you run into any issues
+3. Mod Organizer 2. I cannot recommend Vortex. You WILL have issues and you will either notice them straight away or you will NOT notice them until it's late. 
 4. Version 1.11.36 of Starfield
 
 
@@ -39,11 +38,11 @@ Read each mod instruction carefully please. They're manually installed in differ
 
 <br />**Gameplay**
 
-1. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
-4. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
-5. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
-6. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
-7. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files
+2. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
+3. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
+4. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
+5. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
+6. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files
 
 <br />**HUD**
 
@@ -146,8 +145,7 @@ Read each mod instruction carefully please. They're manually installed in differ
     Credit goes to Hugin&Mugin/N7Tai for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it. I will delete it if he returns as he is currently MIA
 71. Star Wars - Shoretrooper Main https://www.nexusmods.com/starfield/mods/8822?tab=files
 72. Star Wars - Shoretrooper Paradiso Security Replacer https://www.nexusmods.com/starfield/mods/8822?tab=files
-73. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
-    Credit: Saighdearagh (had to fix myself due to update)
+73. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://www.nexusmods.com/starfield/mods/9471?tab=files
 74. Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) https://www.nexusmods.com/starfield/mods/9436?tab=files
 76. Star Wars Bounty Hunter Pack https://www.nexusmods.com/starfield/mods/9147?tab=files
 77. Dengar Mercenary Spacesuit Replacer https://www.nexusmods.com/starfield/mods/9434?tab=files
