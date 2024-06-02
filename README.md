@@ -82,12 +82,12 @@ Read each mod instruction carefully please. They're manually installed in differ
 27. EXE - Effect Textures Enhanced (v0.7) https://www.nexusmods.com/starfield/mods/340?tab=files
 28. Neutral LUTs - No Color Filters (v1.4) https://www.nexusmods.com/starfield/mods/323?tab=files
 29. Bullet Hole Impact VERSION (v3.0) https://www.nexusmods.com/starfield/mods/3026?tab=files
-30. Star Wars New Atlantis Star Destroyer (v0.1) https://www.nexusmods.com/starfield/mods/6820?tab=files
-31. Star Wars Akila Faction Hologram Statue's (Dark Blue) (v1.0) https://www.nexusmods.com/starfield/mods/6467?tab=files
-32. New Atlantis Death Star Hologram (v0.3) https://www.nexusmods.com/starfield/mods/6479?tab=files
-34. Coruscant (WIP) (v1.0) https://www.nexusmods.com/starfield/mods/3461?tab=files
-35. Realistic Stars 4k (v1.2) https://www.nexusmods.com/starfield/mods/2151?tab=files
-36. Enhanced Starfield Clouds - Full Res (v1.0) https://www.nexusmods.com/starfield/mods/3873?tab=files
+30. Star Wars New Atlantis Star Destroyer https://www.nexusmods.com/starfield/mods/9466?tab=files
+31. Star Wars Akila Faction Hologram Statue's (Dark Blue) https://www.nexusmods.com/starfield/mods/6467?tab=files
+32. New Atlantis Death Star Hologram https://www.nexusmods.com/starfield/mods/6479?tab=files
+34. Coruscant (WIP) https://www.nexusmods.com/starfield/mods/3461?tab=files
+35. Realistic Stars 4k https://www.nexusmods.com/starfield/mods/2151?tab=files
+36. Enhanced Starfield Clouds - Full Res https://www.nexusmods.com/starfield/mods/3873?tab=files
 
 <br />**Characters**<br />
 37. Greedo - Star Wars Companion https://www.nexusmods.com/starfield/mods/8928?tab=files
