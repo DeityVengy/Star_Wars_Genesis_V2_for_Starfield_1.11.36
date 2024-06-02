@@ -149,8 +149,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 76. Star Wars Bounty Hunter Pack https://www.nexusmods.com/starfield/mods/9147?tab=files
 77. Dengar Mercenary Spacesuit Replacer https://www.nexusmods.com/starfield/mods/9434?tab=files
 78. Boba Fet 1313 - https://www.nexusmods.com/starfield/mods/9193?tab=files
-79. Boba Fett 1313 Explorer Suit Replacement - https://www.nexusmods.com/starfield/mods/9435?tab=files
-80. Hugin's KOTOR Neo Crusader for Spacer (Navigater Replacer) <br /> https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+79. Boba Fett 1313 Explorer Suit Replacement  https://www.nexusmods.com/starfield/mods/9435?tab=files
+80. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples https://www.nexusmods.com/starfield/mods/9472/?tab=files
     Credit goes to Hugin&Mugin/N7Tai again for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it. I will delete it if he returns as he is currently MIA
 81. Star Wars - BB Echo Armor https://www.nexusmods.com/starfield/mods/9118?tab=files
 82. BB Echo Mercury Suit Replacer https://www.nexusmods.com/starfield/mods/9448?tab=files
