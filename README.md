@@ -105,8 +105,9 @@ Read each mod instruction carefully please. They're manually installed in differ
 46. Star Wars Holocron Snow Globes https://www.nexusmods.com/starfield/mods/6618?tab=files
 47. Aurebesh - Star Wars Conversion (v1.1) https://www.nexusmods.com/starfield/mods/6032?tab=files
 48. Star Wars Astromech Mini Bots (v0.8) https://www.nexusmods.com/starfield/mods/5056?tab=files
-49. Imperial Credit MAST Tower Logo Replacer https://www.nexusmods.com/starfield/mods/9256?tab=files
-50. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) https://www.nexusmods.com/starfield/mods/5162?tab=files
+49. Imperial Crest MAST Tower logo Replacer https://www.nexusmods.com/starfield/mods/4816?tab=files
+50. Imperial Crest MAST Tower Logo Replacer Fix https://www.nexusmods.com/starfield/mods/9256?tab=files
+51. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) https://www.nexusmods.com/starfield/mods/5162?tab=files
 
 <br />**Outfits**<br />
 
