@@ -200,7 +200,6 @@ Read each mod instruction carefully please. They're manually installed in differ
 94. No Self Heal Effect (fog begone) https://www.nexusmods.com/starfield/mods/5918?tab=files
 95. Footsteps Sound Overhaul https://www.nexusmods.com/starfield/mods/9318?tab=files
 96. Alternate Impact Sound (Hit Marker) https://www.nexusmods.com/starfield/mods/5519?tab=description
-97. Kill Essential NPC https://www.nexusmods.com/starfield/mods/232?tab=files
 98. Crowd NPC Eye Ambient Occlusion Fix https://www.nexusmods.com/starfield/mods/2718?tab=files
 99. Neon Security Voice Fix https://www.nexusmods.com/starfield/mods/7947?tab=files
 100. Vasco - Reduced Footsteps Volume by Xtudo https://www.nexusmods.com/starfield/mods/2808?tab=files
@@ -210,7 +209,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 
 
 ## **Starfield Custom.ini File** <br />
-Included in this Github repository. Just download <3<br />
+If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" in your MO2 directory. <br />
+Download the StarfieldCustom.ini file in this Github repository and replace yours. You can also find the file [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
 
 ## **Experimental Mods:**<br />
 1. Starfield Ultimate Graphics with SSRTGI (Reshade): https://www.nexusmods.com/starfield/mods/1565?tab=files<br />
