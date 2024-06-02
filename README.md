@@ -140,7 +140,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 67. Trandoshan Mercs Ecliptic Replacer https://www.nexusmods.com/starfield/mods/8852?tab=files
 68. Coruscant Police Uniform (Neon/Ryujin Security Replacer) https://www.nexusmods.com/starfield/mods/9313?tab=files
 69. Bespin Security Uniform (Trident Security Replacer) https://www.nexusmods.com/starfield/mods/9325?tab=files
-70. Dark Trooper Armor (Shocktrooper Replacer) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing<br />
+70. Dark Trooper Armor (Shocktroop Replacer) [https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing](https://www.nexusmods.com/starfield/mods/9473?tab=files)<br />
     Credit goes to Hugin&Mugin/N7Tai for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it. I will delete it if he returns as he is currently MIA
 71. Star Wars - Shoretrooper Main https://www.nexusmods.com/starfield/mods/8822?tab=files
 72. Star Wars - Shoretrooper Paradiso Security Replacer https://www.nexusmods.com/starfield/mods/8822?tab=files
