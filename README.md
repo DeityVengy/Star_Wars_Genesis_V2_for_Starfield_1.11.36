@@ -53,7 +53,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 12. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
 13. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
 14. Star Wars Loading Screens (my mod) https://www.nexusmods.com/starfield/mods/9385/?tab=files
-15. Star Wars Name Replacement Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9421?tab=files
+15. Star Wars Name Replacement Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
+   INSTALL THE OPTIONAL PATCH TOO. YOU MUST DO THIS OR NOTHING IS GOING TO BE NAMED CORRECTLY
 16. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 17. Show Star Names https://www.nexusmods.com/starfield/mods/5188?tab=files
 18. Starfield Pause Screen Logo Remover https://www.nexusmods.com/starfield/mods/9474/?tab=files
