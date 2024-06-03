@@ -248,9 +248,9 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files.
 5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
    If you see this on a select few weapons, then it's normal and part of the WIP nature of this modlist. Starting a NG+ save or a new save should/will fix most of it. If ALL weapons are like that then it could be anything tbh. Game version mismatch, save issue, mod outdated, etc.
-6. X Mod isn't working. What do i do?
+6. X Mod isn't working. What do i do? <br />
    Make sure you downloaded the correct version I listed. Make sure you followed my load order. Make sure your Starfield version is V1.11.36'
-7. Why are some of the mods on Google Drive and not on Nexus Mods?
+7. Why are some of the mods on Google Drive and not on Nexus Mods? <br />
    Because Nexus Mods is unironically anti-mod. I need permission to modify and update people's files that have been inactive and abandoned for 6+ months. Their mod isn't working anymore. No one is downloading it. No one can contact the original owner. But for some reason I'm not allowed to fix it. I also understandably can't upload any mods with Star Wars music due to copyright, but in reality it's not like Disney would actually care... To be quite honest, I don't really care about any these rules and just want to make a proper Star Wars game/modlist. I allow all my mods be modified and reuploaded freely. I have backups of all files in this modlist on Nexus and Google Drive so nothing will be ever be lost. If a mod in this list is ever deleted, mine or anyone elses, I'll have it uploaded somewhere else as soon as possible.
    
 ## **Discord**
