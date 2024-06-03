@@ -38,10 +38,12 @@ Read each mod instruction carefully please. They're manually installed in differ
 <br />**Gameplay**
 
 2. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
-3. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
-4. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
-5. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
-6. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files
+3. OPTIONAL - Hardcore Mode <br />
+   This changes combat and scaling in the game to be very realistic. You may die in a few shots but so will your enemies unless they have really good armor. All armor is static and won't be scaled to you.
+5. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
+6. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
+7. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
+8. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files
 
 <br />**HUD**
 
@@ -208,9 +210,14 @@ Read each mod instruction carefully please. They're manually installed in differ
 98. Crowd NPC Eye Ambient Occlusion Fix https://www.nexusmods.com/starfield/mods/2718?tab=files
 99. Neon Security Voice Fix https://www.nexusmods.com/starfield/mods/7947?tab=files
 100. Vasco - Reduced Footsteps Volume by Xtudo https://www.nexusmods.com/starfield/mods/2808?tab=files
+101. Star Wars Genesis Override Patch (VERY IMPORTANT) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 
 ## **Plugins Load Order:**<br />
-![image](https://github.com/DeityVengy/Ultimate-Star-Wars-Conversion-Modlist-for-Starfield-1.11.36./assets/170469610/52a7513a-7644-4bb1-8521-9ae1bfda49cb)
+I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you.
+![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/a1ddf572-7b26-4f71-a598-c66d72e78831)
+![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/bd329726-5359-4955-9952-ebde9f625114)
+
+
 
 
 ## **Starfield Custom.ini File** <br />
