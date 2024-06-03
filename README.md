@@ -118,15 +118,15 @@ Read each mod instruction carefully please. They're manually installed in differ
 <br />**Outfits**<br />
 
 51. Star Wars Inspired Retextures https://www.nexusmods.com/starfield/mods/4434?tab=description <br />
-   Cade Bane Freestar - Delete Meshes folder and delete outfit_ranger_01 folder in Textures folder<br />
+   Cade Bane Freestar - Delete Meshes folder and delete outfit_ranger_01 folder in Textures folder after installing<br />
    Luke Award Outfit<br />
    Rey Scrapper Outfit<br />
    Sam Solo <br />
    Lando Outfit - DOWNLOAD FIRST AND THEN DELETE CLASSIC FOLDER. THEN INSTALL <br />
    Barret Outfit - DOWNLOAD FIRST AND THEN DELETE CLASSIC FOLDER. THEN INSTALL <br />
 52. Delgado of Mandalore - Delgado Retexture Only https://www.nexusmods.com/starfield/mods/3146?tab=files
-53. Star Wars Empire Longsleeve Texture (*) https://www.nexusmods.com/starfield/mods/6348?tab=files
-54. Star Wars Prison Scrubs Texture (*) https://www.nexusmods.com/starfield/mods/6383?tab=files
+53. Star Wars Empire Longsleeve Texture https://www.nexusmods.com/starfield/mods/6348?tab=files
+54. Star Wars Prison Scrubs Texture https://www.nexusmods.com/starfield/mods/6383?tab=files
 55. RTM's Neon Businesswear Retexture https://www.nexusmods.com/starfield/mods/9154?tab=files
 56. Rebel Jacket - Dark Brown (Noel's Outfit) https://www.nexusmods.com/starfield/mods/5826?tab=files
 57. Striker Leather Coat (Dark Brown) https://www.nexusmods.com/starfield/mods/7710?tab=files
@@ -149,7 +149,6 @@ Read each mod instruction carefully please. They're manually installed in differ
 68. Coruscant Police Uniform (Neon/Ryujin Security Replacer) https://www.nexusmods.com/starfield/mods/9313?tab=files
 69. Bespin Security Uniform (Trident Security Replacer) https://www.nexusmods.com/starfield/mods/9325?tab=files
 70. Dark Trooper Armor (Shocktroop Replacer) https://www.nexusmods.com/starfield/mods/9473?tab=files<br />
-    Credit goes to Hugin&Mugin/N7Tai for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it. I will delete it if he returns as he is currently MIA
 71. Star Wars - Shoretrooper Main https://www.nexusmods.com/starfield/mods/8822?tab=files
 72. Star Wars - Shoretrooper Paradiso Security Replacer https://www.nexusmods.com/starfield/mods/8822?tab=files
 73. Sith Stalker Armor (Dead Space) (Mark 1 Replacer) https://www.nexusmods.com/starfield/mods/9471?tab=files
@@ -159,7 +158,6 @@ Read each mod instruction carefully please. They're manually installed in differ
 78. Boba Fet 1313 - https://www.nexusmods.com/starfield/mods/9193?tab=files
 79. Boba Fett 1313 Explorer Suit Replacement  https://www.nexusmods.com/starfield/mods/9435?tab=files
 80. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples https://www.nexusmods.com/starfield/mods/9472/?tab=files
-    Credit goes to Hugin&Mugin/N7Tai again for creating the model. I simply transferred it to another suit, updated it to work for the correct patch, and renamed it. I will delete it if he returns as he is currently MIA
 81. Star Wars - BB Echo Armor https://www.nexusmods.com/starfield/mods/9118?tab=files
 82. BB Echo Mercury Suit Replacer https://www.nexusmods.com/starfield/mods/9448?tab=files
 83. Star Wars - Mimban Stormtrooper https://www.nexusmods.com/starfield/mods/8965?tab=files
@@ -214,7 +212,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 98. Crowd NPC Eye Ambient Occlusion Fix https://www.nexusmods.com/starfield/mods/2718?tab=files
 99. Neon Security Voice Fix https://www.nexusmods.com/starfield/mods/7947?tab=files
 100. Vasco - Reduced Footsteps Volume by Xtudo https://www.nexusmods.com/starfield/mods/2808?tab=files
-101. Better Death Physics https://www.nexusmods.com/starfield/mods/5600?tab=files
+101. Better Death Physics - No Collision https://www.nexusmods.com/starfield/mods/5600?tab=files
 102. Star Wars Name Replacer Override Patch https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
      Install the optional file only, as you installed the main one in the beginning.
 103. Star Wars Genesis Override Patch (VERY IMPORTANT) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
