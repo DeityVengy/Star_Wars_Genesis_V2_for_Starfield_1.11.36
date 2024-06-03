@@ -249,5 +249,6 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    If you see this on a select few weapons, then it's normal and part of the WIP nature of this modlist. Starting a NG+ save or a new save should/will fix most of it. If ALL weapons are like that then it could be anything tbh. Game version mismatch, save issue, mod outdated, etc.
 6. X Mod isn't working. What do i do?
    Make sure you downloaded the correct version I listed. Make sure you followed my load order. Make sure your Starfield version is V1.11.36
-
+   
+## **Discord**
 Got any more questions? Experiencing a bug? Please join the Discord at https://discord.gg/sqKTwGRwwY
