@@ -56,6 +56,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 15. Star Wars Name Replacement Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9421?tab=files
 16. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 17. Show Star Names https://www.nexusmods.com/starfield/mods/5188?tab=files
+18. Starfield Pause Screen Logo Remover https://www.nexusmods.com/starfield/mods/9474/?tab=files
 
 <br />**Animations and Camera**<br />
 
