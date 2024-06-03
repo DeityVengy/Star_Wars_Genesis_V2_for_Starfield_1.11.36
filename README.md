@@ -187,7 +187,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 89. Immersive Explosive and Grenade Sounds https://www.nexusmods.com/starfield/mods/2757?tab=files
 90. No Headshot and Crit Sounds - Immersive and Realistic https://www.nexusmods.com/starfield/mods/4414?tab=files
 92. Star Wars Music and Ambience Overhaul (my mod) https://drive.google.com/file/d/1kLRhEXBYP5zha4WYdo2LYJuqSKvAdtoo/view?usp=sharing
-93. Subtle Level Up Sounds https://www.nexusmods.com/starfield/mods/271?tab=files
+93. Challenge Complete Muter https://www.nexusmods.com/starfield/mods/4539?tab=files SCROLL DOWN PLEASE. DOWNLOAD ONLY THE ONE FILE
+94. Subtle Level Up Sounds https://www.nexusmods.com/starfield/mods/271?tab=files
 
 <br />**Performance**<br />
 
