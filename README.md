@@ -227,9 +227,9 @@ I cannot stress this enough. If you don't match this on the tea then you will ha
 If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" in your MO2 directory. <br />
 Download the StarfieldCustom.ini file in this Github repository and replace yours. You can also find the file [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
 
-## **Experimental Mods:**<br />
-1. Starfield Ultimate Graphics with SSRTGI (Reshade): https://www.nexusmods.com/starfield/mods/1565?tab=files<br />
-   Idk much about reshade but this made my screen weird. If you have same issue, check all the Depth Buffer boxes in the Reshade Menu. You might still see the same issue in menus
+## **Experimental/Optional Mods:**<br />
+1. For now, I am using Ultimate Graphic's paid Reshade which you can get from here: https://www.patreon.com/ultimategraphics/posts <br />
+   If any of you know any free alternatives that look as good, please let me know in my discord :D
    
 ## **IN-GAME SETUP**<br />
 1. 
@@ -249,3 +249,5 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    If you see this on a select few weapons, then it's normal and part of the WIP nature of this modlist. Starting a NG+ save or a new save should/will fix most of it. If ALL weapons are like that then it could be anything tbh. Game version mismatch, save issue, mod outdated, etc.
 6. X Mod isn't working. What do i do?
    Make sure you downloaded the correct version I listed. Make sure you followed my load order. Make sure your Starfield version is V1.11.36
+
+Got any more questions? Experiencing a bug? Please join the Discord at https://discord.gg/sqKTwGRwwY
