@@ -20,7 +20,7 @@ Read each mod instruction carefully please. They're manually installed in differ
    Install just the main file. You can look into doing the optional muscular mando version if you're interested in that.
 3. Starfield Hotkeys: https://www.nexusmods.com/starfield/mods/1578?tab=files
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): https://www.nexusmods.com/starfield/mods/3800?tab=files<br />
-   I did the Forever Jetpack option but feel free to do any of the other ones. Press F1 to enable.
+   I did the Forever Jetpack option but feel free to do any of the other ones. Press F1 to enable FOR EACH JETPACK YOU EQUIP.
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
    Install the RealADS_Sniper one
 6. Star Wars Mandalorian Title Screen Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9396/?tab=files <br />
@@ -34,16 +34,19 @@ Read each mod instruction carefully please. They're manually installed in differ
 **Core**
 1. Plugins.txt Enabler: https://www.nexusmods.com/starfield/mods/4157?tab=files
 2. Address Library for SFSE Plugins (v11): https://www.nexusmods.com/starfield/mods/3256/?tab=files&category=archived
+3. Console Command Runner (Updated): https://www.nexusmods.com/starfield/mods/7318?tab=files
 
 <br />**Gameplay**
 
 2. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
-3. OPTIONAL - Hardcore Mode <br />
-   This changes combat and scaling in the game to be very realistic. You may die in a few shots but so will your enemies unless they have really good armor. All armor is static and won't be scaled to you.
+3. OPTIONAL - Hardcore Mode https://www.nexusmods.com/starfield/mods/6839?tab=files <br /> 
+   One of the only optional mods in this modlist. This makes the game really hard but more fun and strategic, especially in the early-game. You will have to use cover and can't just run your way through everything. Damage is very realistic and you may die in a few shots but so will your enemies unless you or they have really good armor. All armor is static and won't be scaled to you. You can read more details in the mod description. I've configured a patch at the end of this modlist to make certain armors in this modlist higher rating in order to make sense lore-wise.
 5. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
 6. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
 7. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
 8. BAKA Hold to Sprint (v1.1.0) https://www.nexusmods.com/starfield/mods/8915?tab=files
+9. Armor Drop Chance - CCR https://www.nexusmods.com/starfield/mods/2978?tab=files <br />
+   Select MO2 and 100% drop chance.
 
 <br />**HUD**
 
@@ -218,8 +221,6 @@ I cannot stress this enough. If you don't match this on the tea then you will ha
 ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/bd329726-5359-4955-9952-ebde9f625114)
 
 
-
-
 ## **Starfield Custom.ini File** <br />
 If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" in your MO2 directory. <br />
 Download the StarfieldCustom.ini file in this Github repository and replace yours. You can also find the file [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
@@ -227,6 +228,10 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
 ## **Experimental Mods:**<br />
 1. Starfield Ultimate Graphics with SSRTGI (Reshade): https://www.nexusmods.com/starfield/mods/1565?tab=files<br />
    Idk much about reshade but this made my screen weird. If you have same issue, check all the Depth Buffer boxes in the Reshade Menu. You might still see the same issue in menus
+   
+## **IN-GAME SETUP**<br />
+1. 
+2. If you're using hardcore mode/ascension, make sure your difficulty settings are all on normal
    
 ## **F.A.Q.**
 1. How do I get the Mandalorian Armor?<br />
