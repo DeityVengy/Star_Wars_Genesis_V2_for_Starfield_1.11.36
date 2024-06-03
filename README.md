@@ -219,8 +219,8 @@ Read each mod instruction carefully please. They're manually installed in differ
 
 ## **Plugins Load Order:**<br />
 I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you.
-![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/a1ddf572-7b26-4f71-a598-c66d72e78831)
-![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/bd329726-5359-4955-9952-ebde9f625114)
+![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/a6fd0902-55c0-49d8-8c78-49c676b51b48)
+![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/789483b6-c66a-48aa-9a9a-f42ec3e6a1fb)
 
 
 ## **Starfield Custom.ini File** <br />
