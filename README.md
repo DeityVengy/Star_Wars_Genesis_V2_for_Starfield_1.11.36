@@ -214,9 +214,10 @@ Read each mod instruction carefully please. They're manually installed in differ
 98. Crowd NPC Eye Ambient Occlusion Fix https://www.nexusmods.com/starfield/mods/2718?tab=files
 99. Neon Security Voice Fix https://www.nexusmods.com/starfield/mods/7947?tab=files
 100. Vasco - Reduced Footsteps Volume by Xtudo https://www.nexusmods.com/starfield/mods/2808?tab=files
-101. Star Wars Name Replacer Override Patch https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
+101. Better Death Physics https://www.nexusmods.com/starfield/mods/5600?tab=files
+102. Star Wars Name Replacer Override Patch https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
      Install the optional file only, as you installed the main one in the beginning.
-102. Star Wars Genesis Override Patch (VERY IMPORTANT) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+103. Star Wars Genesis Override Patch (VERY IMPORTANT) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 
 ## **Plugins Load Order:**<br />
 I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you.
@@ -233,7 +234,6 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    If any of you know any free alternatives that look as good, please let me know in my discord :D
    
 ## **IN-GAME SETUP**<br />
-1. 
 2. If you're using hardcore mode/ascension, make sure your difficulty settings are all on normal
    
 ## **F.A.Q.**
