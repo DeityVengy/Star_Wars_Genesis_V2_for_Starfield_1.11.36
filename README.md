@@ -23,13 +23,14 @@ Read each mod instruction carefully please. They're manually installed in differ
    I did the Forever Jetpack option but feel free to do any of the other ones. Press F1 to enable FOR EACH JETPACK YOU EQUIP.
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
    Install the RealADS_Sniper one
-6. Star Wars Mandalorian Title Screen Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9396/?tab=files <br />
-   Install Part 2 Only <br />
+6. Star Wars Mandalorian Title Screen Overhaul (my mod) https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
+   Install Part 2 Only to by putting the Data folder in that archive into steamapps\common\Starfield <br />
 7. Starfield Performance Boost: https://www.nexusmods.com/starfield/mods/290?tab=files
    All In One (For all) 1v6 version
 
 ## **Mod Manager Modlist:** <br />
 **Note: This is following the exact load order in Mod Organizer 2 from top to bottom**<br />
+**Note: All google drive links are still installed by Mod Organizer 2. Just drag the archive into the downloads section of MO2 and install as you normally would **<br />
 
 **Core**
 1. Plugins.txt Enabler: https://www.nexusmods.com/starfield/mods/4157?tab=files
@@ -51,7 +52,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 <br />**HUD**
 
 8. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
-9. Star Wars Mandalorian Title Screen Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9396/?tab=files <br />
+9. Star Wars Mandalorian Title Screen Overhaul (my mod) https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
    Install Part 1 only as you've already manually installed Part 2
 10. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
 11. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
@@ -248,7 +249,9 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
 5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
    If you see this on a select few weapons, then it's normal and part of the WIP nature of this modlist. Starting a NG+ save or a new save should/will fix most of it. If ALL weapons are like that then it could be anything tbh. Game version mismatch, save issue, mod outdated, etc.
 6. X Mod isn't working. What do i do?
-   Make sure you downloaded the correct version I listed. Make sure you followed my load order. Make sure your Starfield version is V1.11.36
+   Make sure you downloaded the correct version I listed. Make sure you followed my load order. Make sure your Starfield version is V1.11.36'
+7. Why are some of the mods on Google Drive and not on Nexus Mods?
+   Because Nexus Mods is unironically anti-mod. I need permission to modify and update people's files that have been inactive and abandoned for 6+ months. Their mod isn't working anymore. No one is downloading it. No one can contact the original owner. But for some reason I'm not allowed to fix it. I also understandably can't upload any mods with Star Wars music due to copyright, but in reality it's not like Disney would actually care... To be quite honest, I don't really care about any these rules and just want to make a proper Star Wars game/modlist. I allow all my mods be modified and reuploaded freely. I have backups of all files in this modlist on Nexus and Google Drive so nothing will be ever be lost. If a mod in this list is ever deleted, mine or anyone elses, I'll have it uploaded somewhere else as soon as possible.
    
 ## **Discord**
 Got any more questions? Experiencing a bug? Please join the Discord at https://discord.gg/sqKTwGRwwY
