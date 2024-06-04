@@ -5,6 +5,21 @@ This is a guide on installing the Star Wars Genesis modlist that turns Starfield
 There will only be one iteration of this page unless there are emergency bug fixes required, which will be highlighted at the top here. Otherwise, V3 will feature minor bug fixes and additional features.
 THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, THEN THIS IS STILL IN BETA AND YOU WILL ENCOUNTER ISSUES
 
+## **Overview:**
+### Complete Sound and Music Overhaul
+### Full Conversion of ALL Factions
+### Full Conversion of ALL Weapons
+### Full Conversion of ALL Spacesuits
+### Notable Locations, Planets, and Dialogue Rewritten
+### Star Wars Aliens
+### Star Wars Misc Items
+### Star Wars Signs, Wallpapers, Logos, and other Textures
+### Third Person Combat Revamped
+### Gameplay Enhancements and Bug Fixes
+### Immersive Starting Experience
+### 4k Textures
+### Optional Realism Mode
+
 ## **Requirements:**
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul and uninstall the Reshade to alleviate it.
 2. Steam version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass version and some of them straight up aren't compatible.
@@ -41,7 +56,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 
 4. Star Wars Aliens (v1.1) https://www.nexusmods.com/starfield/mods/8518?tab=files
 5. OPTIONAL - Hardcore Mode https://www.nexusmods.com/starfield/mods/6839?tab=files <br /> 
-   One of the only optional mods in this modlist. This makes the game really hard but more fun and strategic, especially in the early-game. You will have to use cover and can't just run your way through everything. Damage is very realistic and you may die in a few shots but so will your enemies unless you or they have really good armor. All armor is static and won't be scaled to you. You can read more details in the mod description. I've configured a patch at the end of this modlist to make certain armors in this modlist higher rating in order to make sense lore-wise.
+   One of the only optional mods in this modlist but I highly recommend it. The armor values in this modlist are balanced around this mod. It will be hard especially in the beginning but also very rewarding. You will have to use cover and can't just run your way through everything. Damage is very realistic and you may die in a few shots but so will your enemies unless you or they have really good armor. All armor and weapons are static and won't be scaled to you. That means a pistol you pickup at level 2 won't be useless when you're level 10. You can read more details about it in the mod description.
 6. Perks Increase Aim Down Sight Accuracy (v1.0) https://www.nexusmods.com/starfield/mods/8649?tab=files
 7. Accurate Aiming (No Spread) https://www.nexusmods.com/starfield/mods/5558?tab=files
 7. Improved Combat AI (v1.03) https://www.nexusmods.com/starfield/mods/1392?tab=files
