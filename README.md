@@ -232,7 +232,8 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    If any of you know any free alternatives that look as good, please let me know in my discord :D
    
 ## **IN-GAME SETUP**<br />
-2. If you're using hardcore mode/ascension, make sure your difficulty settings are all on normal
+1. If you're using hardcore mode/ascension, make sure your difficulty settings are all on normal
+2. For every new jetpack you equip, you must press F1 to activate the jetpack mod
    
 ## **F.A.Q.**
 1. How do I get the Mandalorian Armor?<br />
