@@ -6,19 +6,19 @@ There will only be one iteration of this page unless there are emergency bug fix
 THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, THEN THIS IS STILL IN BETA AND YOU WILL ENCOUNTER ISSUES
 
 ## **Overview:**<br />
-Complete Sound and Music Overhaul<br />
-Full Conversion of ALL Factions<br />
-Full Conversion of ALL Weapons<br />
-Full Conversion of ALL Spacesuits<br />
-Notable Locations, Planets, and Dialogue Rewritten<br />
-Star Wars Aliens<br />
-Star Wars Misc Items<br />
-Star Wars Signs, Wallpapers, Logos, and other Textures<br />
-Third Person Combat Revamped<br />
-Gameplay Enhancements and Bug Fixes<br />
-Immersive Starting Experience<br />
-4k Textures<br />
-Optional Realism Mode<br />
+- Complete Sound and Music Overhaul<br />
+- Full Conversion of ALL Factions<br />
+- Full Conversion of ALL Weapons<br />
+- Full Conversion of ALL Spacesuits<br />
+- Notable Locations, Planets, and Dialogue Rewritten<br />
+- Star Wars Aliens<br />
+- Star Wars Misc Items<br />
+- Star Wars Signs, Wallpapers, Logos, and other Textures<br />
+- Third Person Combat Revamped<br />
+- Gameplay Enhancements and Bug Fixes<br />
+- Immersive Starting Experience<br />
+- 4k Textures<br />
+- Optional Realism Mode<br />
 
 ## **Requirements:**
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul and uninstall the Reshade to alleviate it.
