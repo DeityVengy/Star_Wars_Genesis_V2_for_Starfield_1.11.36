@@ -23,7 +23,7 @@ Read each mod instruction carefully please. They're manually installed in differ
    I did the Forever Jetpack option but feel free to do any of the other ones. Press F1 to enable FOR EACH JETPACK YOU EQUIP.
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
    Install the RealADS_Sniper one
-6. Star Wars Mandalorian Title Screen Overhaul (my mod) https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
+6. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
    Install Part 2 Only to by putting the Data folder in that archive into steamapps\common\Starfield <br />
 7. Starfield Performance Boost: https://www.nexusmods.com/starfield/mods/290?tab=files
    All In One (For all) 1v6 version
@@ -52,14 +52,14 @@ Read each mod instruction carefully please. They're manually installed in differ
 <br />**HUD**
 
 10. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
-11. Star Wars Mandalorian Title Screen Overhaul (my mod) https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
+11. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
    Install Part 1 only as you've already manually installed Part 2
 12. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
 13. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
 14. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
 15. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
-16. Star Wars Loading Screens (my mod) https://www.nexusmods.com/starfield/mods/9385/?tab=files
-15. Star Wars Name Replacement Overhaul (my mod) https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
+16. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
+15. Star Wars Name Replacement Overhaul  https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
    INSTALL THE OPTIONAL PATCH TOO. YOU MUST DO THIS OR NOTHING IS GOING TO BE NAMED CORRECTLY
 17. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 18. Show Star Names https://www.nexusmods.com/starfield/mods/5188?tab=files
@@ -191,7 +191,7 @@ Read each mod instruction carefully please. They're manually installed in differ
 109. Star Wars UI Sounds https://www.nexusmods.com/starfield/mods/9390?tab=files
 110. Immersive Explosive and Grenade Sounds https://www.nexusmods.com/starfield/mods/2757?tab=files
 111. No Headshot and Crit Sounds - Immersive and Realistic https://www.nexusmods.com/starfield/mods/4414?tab=files
-112. Star Wars Music and Ambience Overhaul (my mod) https://drive.google.com/file/d/1kLRhEXBYP5zha4WYdo2LYJuqSKvAdtoo/view?usp=sharing
+112. Star Wars Music and Ambience Overhaul https://drive.google.com/file/d/1kLRhEXBYP5zha4WYdo2LYJuqSKvAdtoo/view?usp=sharing
 113. Challenge Complete Muter https://www.nexusmods.com/starfield/mods/4539?tab=files SCROLL DOWN PLEASE. DOWNLOAD ONLY THE ONE FILE
 114. Subtle Level Up Sounds https://www.nexusmods.com/starfield/mods/271?tab=files
 115. No Flight Take Off Music https://www.nexusmods.com/starfield/mods/609?tab=files
