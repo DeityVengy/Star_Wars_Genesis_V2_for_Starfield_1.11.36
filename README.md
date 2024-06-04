@@ -20,7 +20,7 @@ Read each mod instruction carefully please. They're manually installed in differ
    Install just the main file. You can look into doing the optional muscular mando version if you're interested in that.
 3. Starfield Hotkeys: https://www.nexusmods.com/starfield/mods/1578?tab=files
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): https://www.nexusmods.com/starfield/mods/3800?tab=files<br />
-   I did the Forever Jetpack option but feel free to do any of the other ones. Press F1 to enable FOR EACH JETPACK YOU EQUIP.
+   I did the Forever Jetpack option but feel free to do any of the other ones.
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
    Install the RealADS_Sniper one
 6. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
