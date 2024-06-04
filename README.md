@@ -258,8 +258,8 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    player.additem 00226299<br />
    player.additem 0016640A<br />
    player.additem 0016640B<br />
-3. How do I make the damage more realistic?<br />
-   Everyone has different preferences on this so you can get whichever difficulty/damage mod you think you would like.
+3. Why no lightsabers?<br />
+   There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper deflection and dismemberment. To be fair, the odds of an average person in Star Wars encountering  Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
 4. I see the Star Wars themed weapons but they don't fire lasers. How do I fix this?<br />
    Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files.
 5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
