@@ -245,7 +245,8 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
 
 ## **Experimental/Optional Mods:**<br />
 1. For now, I am using Ultimate Graphic's paid Reshade which you can get from here: https://www.patreon.com/ultimategraphics/posts <br />
-   If any of you know any free alternatives that look as good, please let me know in my discord :D
+   If any of you know any free alternatives that look as good, please let me know in my discord :D  <br />
+   Coming back to this, I actually cannot recommend this reshade. Has too many depth buffer issues especially in menus. 
    
 ## **IN-GAME SETUP**<br />
 1. If you're using hardcore mode/ascension, make sure your difficulty settings are all on normal
