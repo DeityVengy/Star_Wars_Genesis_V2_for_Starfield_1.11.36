@@ -229,14 +229,16 @@ Read each mod instruction carefully please. They're manually installed in differ
 125. Neon Security Voice Fix https://www.nexusmods.com/starfield/mods/7947?tab=files
 126. Vasco - Reduced Footsteps Volume by Xtudo https://www.nexusmods.com/starfield/mods/2808?tab=files
 127. Better Death Physics - No Collision https://www.nexusmods.com/starfield/mods/5600?tab=files
-128. Star Wars Name Replacer Override Patch https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
+128. Pasrticle Weapons Orb Fix https://www.nexusmods.com/starfield/mods/6699?tab=files
+129. Star Wars Name Replacer Override Patch https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
      Install the optional file only, as you installed the main one in the beginning.
-129. Star Wars Genesis Override Patch (VERY IMPORTANT) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
+130. Star Wars Genesis Override Patch (VERY IMPORTANT) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 
 ## **Plugins Load Order:**<br />
 I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you.
 ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/a6fd0902-55c0-49d8-8c78-49c676b51b48)
-![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/789483b6-c66a-48aa-9a9a-f42ec3e6a1fb)
+![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/e07b2379-7bfb-4680-a005-04f764291780)
+
 
 
 ## **Starfield Custom.ini File** <br />
