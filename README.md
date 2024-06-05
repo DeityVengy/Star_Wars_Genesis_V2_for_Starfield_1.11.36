@@ -40,7 +40,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
    Install the RealADS_Sniper one
 6. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
-   Install Part 2 Only to by putting the Data folder in that archive into steamapps\common\Starfield <br />
+   Install Part 2 Only by putting the Data folder in the archive into steamapps\common\Starfield <br />
 7. Starfield Performance Boost: https://www.nexusmods.com/starfield/mods/290?tab=files
    All In One (For all) 1v6 version
 
