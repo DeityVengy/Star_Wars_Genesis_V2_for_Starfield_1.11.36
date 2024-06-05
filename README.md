@@ -29,11 +29,12 @@ THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, TH
 
 
 ## **Manually Installed Mods:**<br />
-Read each mod instruction carefully please. They're manually installed in differen't places <br />
+Please read each mod instruction carefully. They're manually installed in different places. <br />
 1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <br />
    Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
-   Install just the main file. You can look into doing the optional muscular mando version if you're interested in that.
+   Install just the main file. You can look into doing the optional muscular mando version if you're interested in that. <br />
+   DO NOT just drag the "Main - Install First" folder inside your Data folder. This is a common mistake. Please read the instructions.
 3. Starfield Hotkeys: https://www.nexusmods.com/starfield/mods/1578?tab=files
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): https://www.nexusmods.com/starfield/mods/3800?tab=files<br />
    I did the Forever Jetpack option but feel free to do any of the other ones.
