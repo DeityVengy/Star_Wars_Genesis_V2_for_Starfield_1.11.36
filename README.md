@@ -3,8 +3,7 @@
 
 This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
 
-There will only be one iteration of this page unless there are emergency bug fixes required, which will be highlighted at the top here. Otherwise, V3 will feature minor bug fixes and additional features.
-THIS IS THE GUIDE ON THE NEWEST VERSION OF STARFIELD. IF YOU'RE READING THIS, THEN THIS IS STILL IN BETA AND YOU WILL ENCOUNTER ISSUES
+There will only be one iteration of this page unless there are emergency bug fixes required, which will be highlighted at the top here. V3 and other future versions will have it's own separate page.
 
 ## **Overview:**<br />
 - Complete Sound and Music Overhaul<br />
