@@ -233,9 +233,9 @@ The armor values in this modlist are balanced around this mod. The game will be 
 127. Better Death Physics - No Collision https://www.nexusmods.com/starfield/mods/5600?tab=files
 128. Pasrticle Weapons Orb Fix https://www.nexusmods.com/starfield/mods/6699?tab=files
 129. Star Wars Name Replacer Override Patch https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
-     Install the optional file only, as you installed the main one in the beginning.
+     Install the optional file only, as you already installed the main one in the beginning.
 130. Star Wars Genesis Override Patch (VERY IMPORTANT) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
-      This last mod is literally the thing holding this modlist 
+      This last mod is literally the thing holding this modlist together. Please make sure you install it.
 
 ## **Plugins Load Order:**<br />
 I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you.
