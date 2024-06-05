@@ -267,9 +267,9 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
 3. Why no lightsabers?<br />
    There are a few lightsaber and jedi/sith mods but it just doesn't really work or feel immersive, especially with this game's poor melee combat. I will add lightsabers when they are ready with proper animations, deflection, and dismemberment. To be fair, the odds of an average person in Star Wars encountering  Jedi/Sith is pretty low anyway. Just make it part of your headcannon lol.
 4. I see the Star Wars themed weapons but they don't fire lasers. How do I fix this?<br />
-   Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files.
+   Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files. This is a common problem I hear about often and if you're in this situation, that means you didn't follow the load order above at all. That is just one out of countless issues you're gonna have if you don't follow this load and plugin order.
 5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
-   If you see this on a select few weapons, then it's normal and part of the WIP nature of this modlist. Starting a NG+ save or a new save should/will fix most of it. If ALL weapons are like that then it could be anything tbh. Game version mismatch, save issue, mod outdated, etc.
+   This used to be an issue with V1 but should not happen at all with V2. If you see this, that means one of your mods is probably the wrong version
 6. X Mod isn't working. What do i do? <br />
    Make sure you followed my load order. Make sure you followed my plugin load order. Make sure your Starfield version is V1.11.36
 7. Why are some of the mods on Google Drive and not on Nexus Mods? <br />
