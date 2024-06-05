@@ -277,4 +277,4 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    Because Nexus Mods is unironically anti-mod. I need permission to modify and update people's files that have been inactive and abandoned for 6+ months. Their mod isn't working anymore. No one is downloading it. No one can contact the original owner. But for some reason I'm not allowed to fix it. I also understandably can't upload any mods with Star Wars music due to copyright, but in reality it's not like Disney would actually care... To be quite honest, I don't really care about any these rules and just want to make a proper Star Wars game/modlist. I allow all my mods be modified and reuploaded freely. I have multiple backups of all files in this modlist so nothing will be ever be lost. If a mod in this list is ever deleted, mine or anyone elses, I'll have it uploaded somewhere else as soon as possible.
    
 ## **Discord**
-Got any more questions? Experiencing a bug? Please join the Discord at https://discord.gg/sqKTwGRwwY
+Got any more questions? Stuck on something during the install guide? Experiencing a bug? Please join the Discord at https://discord.gg/sqKTwGRwwY
