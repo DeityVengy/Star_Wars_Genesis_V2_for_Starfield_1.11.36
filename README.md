@@ -231,7 +231,7 @@ The armor values in this modlist are balanced around this mod. The game will be 
 125. Neon Security Voice Fix https://www.nexusmods.com/starfield/mods/7947?tab=files
 126. Vasco - Reduced Footsteps Volume by Xtudo https://www.nexusmods.com/starfield/mods/2808?tab=files
 127. Better Death Physics - No Collision https://www.nexusmods.com/starfield/mods/5600?tab=files
-128. Pasrticle Weapons Orb Fix https://www.nexusmods.com/starfield/mods/6699?tab=files
+128. Particle Weapons Orb Fix https://www.nexusmods.com/starfield/mods/6699?tab=files
 129. Star Wars Name Replacer Override Patch https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
      Install the optional file only, as you already installed the main one in the beginning.
 130. Star Wars Genesis Override Patch (VERY IMPORTANT) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
