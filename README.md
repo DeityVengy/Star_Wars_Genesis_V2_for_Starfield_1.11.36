@@ -260,7 +260,7 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    
 ## **F.A.Q.**
 1. How do I get the Mandalorian Armor?<br />
-   It replaces the Mantis Armor. You can spawn the armor in with these console commands: <br />
+   It replaces the Mantis Armor. You can spawn the armor in with these console commands but just know the game will be easier than intended with it. It's an endgame unique armor that goes head to head with Celestial (Starborn) armor and the challenge to get it naturally takes some work now since it requires an Aurebesh translator: <br />
    player.additem 00226299<br />
    player.additem 0016640A<br />
    player.additem 0016640B<br />
