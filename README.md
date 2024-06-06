@@ -75,11 +75,13 @@ The armor values in this modlist are balanced around this mod. The game will be 
 10. 60 FPS - Smooth UI (v3.9) https://www.nexusmods.com/starfield/mods/350?tab=files
 11. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
    Install Part 1 only as you've already manually installed Part 2
-12. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files
-13. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files
-14. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
-15. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
-16. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
+12. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files <br />
+    Select 60 FPS, Slim, and unchecked Vignette<br />
+13. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files<br />
+    It's manual install and drag the zip into the Mod Organizer 2 download folders
+15. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
+16. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
+17. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
 15. Star Wars Name Replacement Overhaul  https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
    INSTALL THE OPTIONAL PATCH TOO. YOU MUST DO THIS OR NOTHING IS GOING TO BE NAMED CORRECTLY
 17. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
