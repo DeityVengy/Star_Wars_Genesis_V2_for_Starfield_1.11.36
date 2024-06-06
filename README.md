@@ -23,8 +23,9 @@ There will only be one iteration of this page unless there are emergency bug fix
 ## **Requirements:**
 1. Decent Gaming PC. Make sure unmodded Starfield alone runs fine on your PC before attempting these mods. If you're lagging after installing these mods with a budget build, you can disable the HD Overhaul to alleviate it.
 2. Steam version of Starfield. Alot of these mods have posts about people having issues installing it on the GamePass version and some of them straight up aren't compatible.
-3. Mod Organizer 2. I cannot recommend Vortex. You WILL have issues and you will either notice them straight away or you will NOT notice them until it's late. 
-4. Version 1.11.36 of Starfield
+3. Mod Organizer 2. I cannot recommend Vortex. You WILL have issues and you will either notice them straight away or you will NOT notice them until it's late.
+4. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ
+5. Version 1.11.36 of Starfield
 
 
 ## **Manually Installed Mods:**<br />
@@ -270,9 +271,11 @@ Download the StarfieldCustom.ini file in this Github repository and replace your
    Make sure all the Weapon Replacer mods are BELOW the Armor mods and overwrite them. Do the same for the esm files. This is a common problem I hear about often and if you're in this situation, that means you didn't follow the load order above at all. That is just one out of countless issues you're gonna have if you don't follow this load and plugin order.
 5. I see "Lookup failed!" on some weapons and armor. How do I fix?<br />
    This used to be an issue with V1 but should not happen at all with V2. If you see this, that means one of your mods is probably the wrong version
-6. X Mod isn't working. What do i do? <br />
+6. Certain NPC's are missing their heads or aren't converted.
+   This happens when you mod existing saves. There are 2 possible solutions. Open console, click them, and do resetinventory. If that doesn't work, try using "disable" on them closing the console for them to disappear, and then open console and type enable. Highly recommend saving your game before hand incase you mess something up.
+7. X Mod isn't working. What do i do? <br />
    Make sure you followed my load order. Make sure you followed my plugin load order. Make sure your Starfield version is V1.11.36
-7. Why are some of the mods on Google Drive and not on Nexus Mods? <br />
+8. Why are some of the mods on Google Drive and not on Nexus Mods? <br />
    Because Nexus Mods is unironically anti-mod. I need permission to modify and update people's files that have been inactive and abandoned for 6+ months. Their mod isn't working anymore. No one is downloading it. No one can contact the original owner. But for some reason I'm not allowed to fix it. I also understandably can't upload any mods with Star Wars music due to copyright, but in reality it's not like Disney would actually care... To be quite honest, I don't really care about any these rules and just want to make a proper Star Wars game/modlist. I allow all my mods be modified and reuploaded freely. I have multiple backups of all files in this modlist so nothing will be ever be lost. If a mod in this list is ever deleted, mine or anyone elses, I'll have it uploaded somewhere else as soon as possible.
    
 ## **Gameplay (Click the Picture)**<br />
