@@ -28,7 +28,7 @@ Note that small bug fixes will be updated live on here and visible on Discord. A
 5. Version 1.11.36 of Starfield
 
 ## **IMPORTANT PRE-STEP**<br />
-If you've modded Starfield in the past, especially at launch with or without Vortex, your setup is probably a mess. Please uninstall Starfield completely(delete both Strarfield folders in My Games and steamapps folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
+If you've modded Starfield in the past, especially at launch with or without Vortex, your setup is probably a mess. Please uninstall Starfield completely(delete both Starfield folders in My Games and steamapps folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
