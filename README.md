@@ -28,11 +28,12 @@ Note that small bug fixes will be updated live on here and visible on Discord. A
 5. Version 1.11.36 of Starfield
 
 ## **IMPORTANT PRE-STEP**<br />
-If you've modded Starfield in the past, especially at launch with or without Vortex, your setup is probably a mess. Please uninstall Starfield completely(delete both Starfield folders in My Games and steamapps folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
+If you've modded Starfield in the past, especially at launch with or without Vortex, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
 1. Starfield Script Extender (V0.27): https://www.nexusmods.com/starfield/mods/106?tab=files <br />
+   Drag the contents of sfse_0_2_7 into steamapps\common\Starfield
    Add SFSE to MO2 by following these instructions: https://www.youtube.com/watch?v=OWVri7somCI&t=85s
 2. Mandalorian Collection Mesh Texture Edits: https://www.nexusmods.com/starfield/mods/6043?tab=files<br />
    Install just the main file. You can look into doing the optional muscular mando version if you're interested in that. <br />
@@ -42,11 +43,11 @@ Please read each mod instruction carefully. They're manually installed in differ
 4. Boostpack to Jetpack (A TRUE Jetpack Experience): https://www.nexusmods.com/starfield/mods/3800?tab=files<br />
    I did the Forever Jetpack option but feel free to do any of the other ones. Run enable_hotkeys.cmd after
 5. Real ADS - Part 2 - Add Real Zoom: https://www.nexusmods.com/starfield/mods/3939?tab=files<br />
-   Open RealADS_Sniper. Drag RealADS.txt into steamapps\common\Starfield
+   Open the RealADS_Sniper folder. Drag RealADS.txt into steamapps\common\Starfield
 6. Star Wars Mandalorian Title Screen Overhaul https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing <br />
-   Install Part 2 Only by putting the Data folder in the archive into steamapps\common\Starfield <br />
-7. Starfield Performance Boost: https://www.nexusmods.com/starfield/mods/290?tab=files
-   All In One (For all) 1v6 version. Drag all the contents into steamapps\common\Starfield
+   Install Part 2 Only by putting the Data folder into steamapps\common\Starfield <br />
+7. Starfield Performance Boost (All In One (For all)): https://www.nexusmods.com/starfield/mods/290?tab=files <br />
+   Drag all the contents into steamapps\common\Starfield
 
 ## **Mod Manager Modlist:** <br />
 **Note: This is following the exact load order in Mod Organizer 2 from top to bottom. Ignore the mod's instructions and just follow mine. Do Mod Manager Install for all of these**<br />
