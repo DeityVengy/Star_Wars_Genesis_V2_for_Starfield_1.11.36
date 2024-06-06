@@ -27,6 +27,8 @@ Note that small bug fixes will be updated live on here and visible on Discord. A
 4. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ
 5. Version 1.11.36 of Starfield
 
+## **IMPORTANT PRE-STEP**<br />
+If you've modded Starfield in the past, especially at launch with or without Vortex, your setup is probably a mess. Please uninstall Starfield completely(delete both Strarfield folders in My Games and steamapps folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
@@ -78,12 +80,13 @@ The armor values in this modlist are balanced around this mod. The game will be 
 12. Compact Inventory UI (v1.5) https://www.nexusmods.com/starfield/mods/185?tab=files <br />
     Select 60 FPS, Slim, and unchecked Vignette<br />
 13. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files<br />
-    It's manual install and drag the zip into the Mod Organizer 2 download folders
+    Manually install and drag the zip into the Mod Organizer 2 download folders. Install normally
 15. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
-16. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files
+16. Pause Menu Replacer (v1.0) https://www.nexusmods.com/starfield/mods/4430?tab=files <br />
+    Manually download the mod. Drag the folder of the pause screen you want to your desktop (Mando for example), compress to a zip folder, drag into MO2. 
 17. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
 15. Star Wars Name Replacement Overhaul  https://www.nexusmods.com/starfield/mods/9421?tab=files <br />
-   INSTALL THE OPTIONAL PATCH TOO. YOU MUST DO THIS OR NOTHING IS GOING TO BE NAMED CORRECTLY
+   Install only the main file right now
 17. Enhanced Player Healthbar WYOR (v1.03) https://www.nexusmods.com/starfield/mods/454?tab=files
 18. Show Star Names https://www.nexusmods.com/starfield/mods/5188?tab=files
 19. Starfield Pause Screen Logo Remover https://www.nexusmods.com/starfield/mods/9474/?tab=files
@@ -246,7 +249,6 @@ The armor values in this modlist are balanced around this mod. The game will be 
 I cannot stress this enough. If you don't match this on the tea then you will have issues on top of issues and I won't be able to help you.
 ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/a6fd0902-55c0-49d8-8c78-49c676b51b48)
 ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/e07b2379-7bfb-4680-a005-04f764291780)
-
 
 
 ## **Starfield Custom.ini File** <br />
