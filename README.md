@@ -121,16 +121,16 @@ The armor values in this modlist are balanced around this mod. The game will be 
 
 <br />**Textures**<br />
 
-41. BD-1 Vasco (v1.0) https://www.nexusmods.com/starfield/mods/8235?tab=files
+41. BD-1 Vasco https://www.nexusmods.com/starfield/mods/8235?tab=files
 42. Star Wars Grenades https://www.nexusmods.com/starfield/mods/6774?tab=files
 43. Star Wars Data Pads https://www.nexusmods.com/starfield/mods/6844?tab=files
-44. Star Wars Contraband Replacer (v0.2) https://www.nexusmods.com/starfield/mods/7855?tab=files
-45. Star Wars Credits (Only Credits) (vOnlyMoney) https://www.nexusmods.com/starfield/mods/5023?tab=files
+44. Star Wars Contraband Replacer https://www.nexusmods.com/starfield/mods/7855?tab=files
+45. Star Wars Credits (Only Credits) https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing
 46. Star Wars Binoculars https://www.nexusmods.com/starfield/mods/6843?tab=files
 47. Gonk Trashbins https://www.nexusmods.com/starfield/mods/5523?tab=files
 48. Star Wars Holocron Snow Globes https://www.nexusmods.com/starfield/mods/6618?tab=files
-49. Aurebesh - Star Wars Conversion (v1.1) https://www.nexusmods.com/starfield/mods/6032?tab=files
-50. Star Wars Astromech Mini Bots (v0.8) https://www.nexusmods.com/starfield/mods/5056?tab=files
+49. Aurebesh - Star Wars Conversion https://www.nexusmods.com/starfield/mods/6032?tab=files
+50. Star Wars Astromech Mini Bots https://www.nexusmods.com/starfield/mods/5056?tab=files
 51. Imperial Crest MAST Tower logo Replacer https://www.nexusmods.com/starfield/mods/4816?tab=files
 52. Imperial Crest MAST Tower Logo Replacer Fix https://www.nexusmods.com/starfield/mods/9256?tab=files
 53. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) https://www.nexusmods.com/starfield/mods/5162?tab=files
