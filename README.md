@@ -82,7 +82,7 @@ The armor values in this modlist are balanced around this mod. The game will be 
     Select 60 FPS, Slim, and unchecked Vignette<br />
 13. Less Intrusive HUD and Better Crosshair (v1.0) https://www.nexusmods.com/starfield/mods/2534?tab=files<br />
     Manually install and drag the zip into the Mod Organizer 2 download folders. Install normally
-15. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
+15. Weapon Icons - AiO (Complete Series) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD "Weapon Icons - AiO (Complete Series)"
 16. Mando Pause Screen https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing <br />
     Drag into MO2 
 17. Star Wars Loading Screens https://www.nexusmods.com/starfield/mods/9385/?tab=files
