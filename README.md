@@ -194,7 +194,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 
 <br />**Weapons**<br />
 
-89. Crimson Fleet Arsenal - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD CORRECTLY WHEN INSTALLING
+89. Crimson Fleet Arsenal - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8744?tab=files MAKE SURE YOU NAME THE MOD "Crimson Fleet Arsenal - Star Wars Weapon Replacer"
 90. Outer Rim Artillery - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8903?tab=files
 91. Arms of Mandalore - Star Wars Weapon Replacer (v1.3) https://www.nexusmods.com/starfield/mods/8853?tab=files
 92. Rebel Armaments - Star Wars Weapon Replacer (v1.5 https://www.nexusmods.com/starfield/mods/8696?tab=files
